@@ -1,0 +1,5784 @@
+{
+  "username": "Eiliv",
+  "updated_at": "2026-07-29T13:20:01.302Z",
+  "count": 172,
+  "collection": [
+    {
+      "instance_id": 1400243592,
+      "release_id": 26740556,
+      "master_id": 182097,
+      "artist": "Ahmad Jamal Trio",
+      "title": "The Awakening",
+      "year": 2023,
+      "labels": [
+        {
+          "name": "Verve Records",
+          "catalog_number": "B0036678-01"
+        },
+        {
+          "name": "Impulse!",
+          "catalog_number": "AS-9194"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "B0036678-01"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2023-07-08T04:16:28-07:00",
+      "discogs_url": "https://www.discogs.com/release/26740556"
+    },
+    {
+      "instance_id": 1400243481,
+      "release_id": 25191424,
+      "master_id": 140559,
+      "artist": "Andrew Hill",
+      "title": "Point Of Departure",
+      "year": 2022,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "4535330"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "4535330"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "00602445353309"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "00602445353309"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "ST-84167"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BST 84167"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "84167"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2023-07-08T04:16:13-07:00",
+      "discogs_url": "https://www.discogs.com/release/25191424"
+    },
+    {
+      "instance_id": 2000784924,
+      "release_id": 28006254,
+      "master_id": 41067,
+      "artist": "Anthony Williams",
+      "title": "Spring",
+      "year": 2023,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "5523656"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "5523656"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "00602455236562"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "00602455236562"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "84216"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "ST-84216"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BST 84216"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2025-04-18T11:06:00-07:00",
+      "discogs_url": "https://www.discogs.com/release/28006254"
+    },
+    {
+      "instance_id": 1524284482,
+      "release_id": 11170973,
+      "master_id": 244008,
+      "artist": "Arne Domnérus, Bengt Hallberg, Georg Riedel, Egil Johansen, Lars Erstrand",
+      "title": "Jazz At The Pawnshop",
+      "year": 2011,
+      "labels": [
+        {
+          "name": "Prophone",
+          "catalog_number": "PROP 7778-79"
+        },
+        {
+          "name": "Proprius",
+          "catalog_number": "PROP 7778-79"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "date_added": "2023-12-01T09:07:46-08:00",
+      "discogs_url": "https://www.discogs.com/release/11170973"
+    },
+    {
+      "instance_id": 1506154204,
+      "release_id": 15710701,
+      "master_id": 1773020,
+      "artist": "Art Blakey & The Jazz Messengers",
+      "title": "Just Coolin'",
+      "year": 2020,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "00602508650239"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "64201"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "ST-64201"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2023-11-10T09:02:40-08:00",
+      "discogs_url": "https://www.discogs.com/release/15710701"
+    },
+    {
+      "instance_id": 477174874,
+      "release_id": 4345204,
+      "master_id": 62462,
+      "artist": "Art Blakey & The Jazz Messengers",
+      "title": "Moanin'",
+      "year": 2012,
+      "labels": [
+        {
+          "name": "WaxTime",
+          "catalog_number": "771792"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo",
+            "Limited Edition",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "date_added": "2020-06-05T05:45:28-07:00",
+      "discogs_url": "https://www.discogs.com/release/4345204"
+    },
+    {
+      "instance_id": 404314390,
+      "release_id": 4394875,
+      "master_id": 304610,
+      "artist": "Art Pepper",
+      "title": "Art Pepper + Eleven",
+      "year": 2012,
+      "labels": [
+        {
+          "name": "WaxTime",
+          "catalog_number": "771805"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "date_added": "2019-09-28T19:21:46-07:00",
+      "discogs_url": "https://www.discogs.com/release/4394875"
+    },
+    {
+      "instance_id": 2067068669,
+      "release_id": 29516941,
+      "master_id": 918102,
+      "artist": "Art Pepper",
+      "title": "Stardust",
+      "year": 2023,
+      "labels": [
+        {
+          "name": "Omnivore Recordings",
+          "catalog_number": "OVLP-461"
+        },
+        {
+          "name": "Widow's Taste",
+          "catalog_number": "OVLP-461"
+        },
+        {
+          "name": "Omnivore Recordings",
+          "catalog_number": "810075111040"
+        },
+        {
+          "name": "Widow's Taste",
+          "catalog_number": "810075111040"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2025-10-04T10:33:06-07:00",
+      "discogs_url": "https://www.discogs.com/release/29516941"
+    },
+    {
+      "instance_id": 1766285266,
+      "release_id": 29895175,
+      "master_id": 111048,
+      "artist": "Astrud Gilberto",
+      "title": "Look To The Rainbow",
+      "year": 2024,
+      "labels": [
+        {
+          "name": "Verve Records",
+          "catalog_number": "V6-8643"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "602458492064"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2024-08-23T09:07:12-07:00",
+      "discogs_url": "https://www.discogs.com/release/29895175"
+    },
+    {
+      "instance_id": 2000787039,
+      "release_id": 14324329,
+      "master_id": 666558,
+      "artist": "Ben Webster",
+      "title": "The Soul Of Ben Webster",
+      "year": 2019,
+      "labels": [
+        {
+          "name": "MatchBall records",
+          "catalog_number": "29023"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2025-04-18T11:07:54-07:00",
+      "discogs_url": "https://www.discogs.com/release/14324329"
+    },
+    {
+      "instance_id": 470575721,
+      "release_id": 2683225,
+      "master_id": 224506,
+      "artist": "Ben Webster, Oscar Peterson",
+      "title": "Ben Webster Meets Oscar Peterson",
+      "year": 2010,
+      "labels": [
+        {
+          "name": "Jazz Wax Records",
+          "catalog_number": "JWR 4522"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2020-05-16T14:38:07-07:00",
+      "discogs_url": "https://www.discogs.com/release/2683225"
+    },
+    {
+      "instance_id": 1512178126,
+      "release_id": 25478887,
+      "master_id": 309943,
+      "artist": "Benny Carter",
+      "title": "Jazz Giant",
+      "year": 2022,
+      "labels": [
+        {
+          "name": "Craft Recordings",
+          "catalog_number": "CR00384"
+        },
+        {
+          "name": "Contemporary Records",
+          "catalog_number": "CR00384"
+        },
+        {
+          "name": "Stereo Records (4)",
+          "catalog_number": "CR00384"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2023-11-17T08:40:54-08:00",
+      "discogs_url": "https://www.discogs.com/release/25478887"
+    },
+    {
+      "instance_id": 1766285644,
+      "release_id": 29905828,
+      "master_id": 737538,
+      "artist": "Betty Carter",
+      "title": "The Modern Sound Of Betty Carter",
+      "year": 2024,
+      "labels": [
+        {
+          "name": "Verve Records",
+          "catalog_number": "602458491913"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "602458491913"
+        },
+        {
+          "name": "Verve Records",
+          "catalog_number": "ABCS 363"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2024-08-23T09:07:38-07:00",
+      "discogs_url": "https://www.discogs.com/release/29905828"
+    },
+    {
+      "instance_id": 2046759202,
+      "release_id": 5197577,
+      "master_id": 190219,
+      "artist": "Billie Holiday",
+      "title": "Lady Sings The Blues",
+      "year": 2013,
+      "labels": [
+        {
+          "name": "Verve Records",
+          "catalog_number": "MGV-8099"
+        },
+        {
+          "name": "Universal Music Catalogue",
+          "catalog_number": "0600753458877"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "date_added": "2025-08-01T07:56:57-07:00",
+      "discogs_url": "https://www.discogs.com/release/5197577"
+    },
+    {
+      "instance_id": 2046759123,
+      "release_id": 13396475,
+      "master_id": 123567,
+      "artist": "Billie Holiday, Ray Ellis And His Orchestra",
+      "title": "Lady In Satin",
+      "year": 2015,
+      "labels": [
+        {
+          "name": "Columbia",
+          "catalog_number": "CS 8048"
+        },
+        {
+          "name": "Columbia",
+          "catalog_number": "88875111741"
+        },
+        {
+          "name": "Sony Music",
+          "catalog_number": "88875111741"
+        },
+        {
+          "name": "Legacy",
+          "catalog_number": "88875111741"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2025-08-01T07:56:41-07:00",
+      "discogs_url": "https://www.discogs.com/release/13396475"
+    },
+    {
+      "instance_id": 1447286770,
+      "release_id": 27324891,
+      "master_id": 212760,
+      "artist": "Blossom Dearie",
+      "title": "Blossom Dearie",
+      "year": 2023,
+      "labels": [
+        {
+          "name": "Verve Records",
+          "catalog_number": "B0037206-01"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "B0037206-01"
+        },
+        {
+          "name": "Verve Records",
+          "catalog_number": "MG V-2037"
+        },
+        {
+          "name": "Verve Records",
+          "catalog_number": "MGV 2037"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Mono"
+          ]
+        }
+      ],
+      "date_added": "2023-09-01T08:17:02-07:00",
+      "discogs_url": "https://www.discogs.com/release/27324891"
+    },
+    {
+      "instance_id": 2030028781,
+      "release_id": 31945882,
+      "master_id": 381627,
+      "artist": "Blue Mitchell Sextet",
+      "title": "Blue Soul",
+      "year": 2024,
+      "labels": [
+        {
+          "name": "Destination Moon (3)",
+          "catalog_number": "DMOO0079"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Numbered",
+            "Reissue"
+          ]
+        }
+      ],
+      "date_added": "2025-06-06T08:35:05-07:00",
+      "discogs_url": "https://www.discogs.com/release/31945882"
+    },
+    {
+      "instance_id": 1447285183,
+      "release_id": 21298843,
+      "master_id": 373248,
+      "artist": "Booker Ervin",
+      "title": "The Book Cooks",
+      "year": 2021,
+      "labels": [
+        {
+          "name": "Bethlehem Records",
+          "catalog_number": "538625001"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "date_added": "2023-09-01T08:15:16-07:00",
+      "discogs_url": "https://www.discogs.com/release/21298843"
+    },
+    {
+      "instance_id": 2067817030,
+      "release_id": 34983104,
+      "master_id": 3955946,
+      "artist": "Brad Mehldau",
+      "title": "Ride Into The Sun",
+      "year": 2025,
+      "labels": [
+        {
+          "name": "Nonesuch",
+          "catalog_number": "075597896220"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "2",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "date_added": "2025-10-06T12:30:14-07:00",
+      "discogs_url": "https://www.discogs.com/release/34983104"
+    },
+    {
+      "instance_id": 468058471,
+      "release_id": 4015386,
+      "master_id": 372236,
+      "artist": "Bugge Wesseltoft",
+      "title": "It's Snowing On My Piano",
+      "year": 2012,
+      "labels": [
+        {
+          "name": "ACT (4)",
+          "catalog_number": "ACT 9260-1"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "date_added": "2020-05-09T19:23:39-07:00",
+      "discogs_url": "https://www.discogs.com/release/4015386"
+    },
+    {
+      "instance_id": 336399219,
+      "release_id": 11092390,
+      "master_id": 118117,
+      "artist": "Cannonball Adderley",
+      "title": "Somethin' Else",
+      "year": 2017,
+      "labels": [
+        {
+          "name": "Dol",
+          "catalog_number": "DOL794HG"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "date_added": "2018-12-01T16:44:50-08:00",
+      "discogs_url": "https://www.discogs.com/release/11092390"
+    },
+    {
+      "instance_id": 1512177754,
+      "release_id": 26286971,
+      "master_id": 597356,
+      "artist": "Carmell Jones, Harold Land",
+      "title": "The Remarkable Carmell Jones",
+      "year": 2023,
+      "labels": [
+        {
+          "name": "Pacific Jazz",
+          "catalog_number": "B0034579-01"
+        },
+        {
+          "name": "Pacific Jazz",
+          "catalog_number": "ST-29"
+        },
+        {
+          "name": "Pacific Jazz",
+          "catalog_number": "STEREO-29"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2023-11-17T08:40:31-08:00",
+      "discogs_url": "https://www.discogs.com/release/26286971"
+    },
+    {
+      "instance_id": 1766285425,
+      "release_id": 30464432,
+      "master_id": 3466198,
+      "artist": "Carmen McRae",
+      "title": "Great Women Of Song:  Carmen McRae",
+      "year": 2024,
+      "labels": [
+        {
+          "name": "Verve Records",
+          "catalog_number": "602458813302"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "602458813302"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Compilation",
+            "Limited Edition",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2024-08-23T09:07:24-07:00",
+      "discogs_url": "https://www.discogs.com/release/30464432"
+    },
+    {
+      "instance_id": 348909557,
+      "release_id": 10962429,
+      "master_id": 65014,
+      "artist": "Charles Mingus",
+      "title": "Mingus Ah Um",
+      "year": 2017,
+      "labels": [
+        {
+          "name": "DOL",
+          "catalog_number": "DOL953HG"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "date_added": "2019-01-24T19:39:06-08:00",
+      "discogs_url": "https://www.discogs.com/release/10962429"
+    },
+    {
+      "instance_id": 430462352,
+      "release_id": 14044436,
+      "master_id": 176923,
+      "artist": "Charles Mingus",
+      "title": "Mingus Mingus Mingus Mingus Mingus",
+      "year": 2019,
+      "labels": [
+        {
+          "name": "Impulse!",
+          "catalog_number": "000602577573781"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2020-01-17T18:11:43-08:00",
+      "discogs_url": "https://www.discogs.com/release/14044436"
+    },
+    {
+      "instance_id": 625080121,
+      "release_id": 13941306,
+      "master_id": 65019,
+      "artist": "Charles Mingus",
+      "title": "The Black Saint And The Sinner Lady",
+      "year": 2019,
+      "labels": [
+        {
+          "name": "Impulse!",
+          "catalog_number": "000602577573736"
+        },
+        {
+          "name": "Impulse!",
+          "catalog_number": "00602577573736"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2021-02-28T08:05:21-08:00",
+      "discogs_url": "https://www.discogs.com/release/13941306"
+    },
+    {
+      "instance_id": 468062906,
+      "release_id": 12792956,
+      "master_id": 3070301,
+      "artist": "Charles Mingus",
+      "title": "The Clown / Pithecanthropus Erectus (The Original Albums)",
+      "year": 2018,
+      "labels": [
+        {
+          "name": "Vinyl Passion",
+          "catalog_number": "VP 80797"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "2",
+          "descriptions": [
+            "LP",
+            "Compilation",
+            "Remastered",
+            "Mono"
+          ]
+        }
+      ],
+      "date_added": "2020-05-09T19:35:52-07:00",
+      "discogs_url": "https://www.discogs.com/release/12792956"
+    },
+    {
+      "instance_id": 477174914,
+      "release_id": 14163856,
+      "master_id": 176947,
+      "artist": "Charlie Parker, Dizzy Gillespie",
+      "title": "Bird And Diz",
+      "year": 2019,
+      "labels": [
+        {
+          "name": "Verve Records",
+          "catalog_number": "000602577271823"
+        },
+        {
+          "name": "Mercury",
+          "catalog_number": "000602577271823"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "date_added": "2020-06-05T05:45:51-07:00",
+      "discogs_url": "https://www.discogs.com/release/14163856"
+    },
+    {
+      "instance_id": 2067816937,
+      "release_id": 17705911,
+      "master_id": 60238,
+      "artist": "Chet Baker",
+      "title": "Chet",
+      "year": 2021,
+      "labels": [
+        {
+          "name": "Riverside Records",
+          "catalog_number": "CR00359"
+        },
+        {
+          "name": "Craft Recordings",
+          "catalog_number": "CR00359"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Repress",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2025-10-06T12:29:59-07:00",
+      "discogs_url": "https://www.discogs.com/release/17705911"
+    },
+    {
+      "instance_id": 2089642820,
+      "release_id": 11153900,
+      "master_id": 60289,
+      "artist": "Chet Baker",
+      "title": "Chet Baker Sings",
+      "year": 2017,
+      "labels": [
+        {
+          "name": "Dol",
+          "catalog_number": "DOL797hg"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "date_added": "2025-12-14T08:50:52-08:00",
+      "discogs_url": "https://www.discogs.com/release/11153900"
+    },
+    {
+      "instance_id": 2067816800,
+      "release_id": 33611163,
+      "master_id": 456234,
+      "artist": "Chet Baker",
+      "title": "Cool Cat",
+      "year": 2023,
+      "labels": [
+        {
+          "name": "Music On Vinyl",
+          "catalog_number": "MOVLP3274"
+        },
+        {
+          "name": "Timeless Records (3)",
+          "catalog_number": "MOVLP3274"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2025-10-06T12:29:34-07:00",
+      "discogs_url": "https://www.discogs.com/release/33611163"
+    },
+    {
+      "instance_id": 1873720890,
+      "release_id": 32057655,
+      "master_id": 461547,
+      "artist": "Chet Baker",
+      "title": "Late Night Jazz",
+      "year": 2024,
+      "labels": [
+        {
+          "name": "Hot Club Records",
+          "catalog_number": "73401"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Deluxe Edition",
+            "Limited Edition",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2024-12-24T12:58:07-08:00",
+      "discogs_url": "https://www.discogs.com/release/32057655"
+    },
+    {
+      "instance_id": 2067816719,
+      "release_id": 4194138,
+      "master_id": 60234,
+      "artist": "Chet Baker",
+      "title": "She Was Too Good To Me",
+      "year": 2013,
+      "labels": [
+        {
+          "name": "Music On Vinyl",
+          "catalog_number": "MOVLP634"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2025-10-06T12:29:20-07:00",
+      "discogs_url": "https://www.discogs.com/release/4194138"
+    },
+    {
+      "instance_id": 528143572,
+      "release_id": 12291491,
+      "master_id": 284240,
+      "artist": "Chet Baker & Crew",
+      "title": "Chet Baker And Crew",
+      "year": 2018,
+      "labels": [
+        {
+          "name": "Jazz Images",
+          "catalog_number": "37063"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "date_added": "2020-11-24T18:31:29-08:00",
+      "discogs_url": "https://www.discogs.com/release/12291491"
+    },
+    {
+      "instance_id": 2067069019,
+      "release_id": 3952928,
+      "master_id": 60238,
+      "artist": "Chet Baker, Bill Evans",
+      "title": "Alone Together",
+      "year": 2011,
+      "labels": [
+        {
+          "name": "WaxTime",
+          "catalog_number": "771698"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Remastered",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2025-10-04T10:34:01-07:00",
+      "discogs_url": "https://www.discogs.com/release/3952928"
+    },
+    {
+      "instance_id": 470576123,
+      "release_id": 13182423,
+      "master_id": 115075,
+      "artist": "Chick Corea",
+      "title": "Now He Sings, Now He Sobs",
+      "year": 2019,
+      "labels": [
+        {
+          "name": "Solid State Records (2)",
+          "catalog_number": "B0029363-01"
+        },
+        {
+          "name": "Solid State Records (2)",
+          "catalog_number": "SS18039"
+        },
+        {
+          "name": "Solid State Records (2)",
+          "catalog_number": "SS 18039"
+        },
+        {
+          "name": "Solid State Records (2)",
+          "catalog_number": "SS-18039"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "B0029363-01"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2020-05-16T14:39:13-07:00",
+      "discogs_url": "https://www.discogs.com/release/13182423"
+    },
+    {
+      "instance_id": 468050266,
+      "release_id": 4081687,
+      "master_id": 123528,
+      "artist": "Chick Corea",
+      "title": "Return To Forever",
+      "year": 2010,
+      "labels": [
+        {
+          "name": "ECM Records",
+          "catalog_number": "ECM 1022 ST"
+        },
+        {
+          "name": "ECM Records",
+          "catalog_number": "ECM 1022"
+        },
+        {
+          "name": "ECM Records",
+          "catalog_number": "230 1022"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "date_added": "2020-05-09T19:01:18-07:00",
+      "discogs_url": "https://www.discogs.com/release/4081687"
+    },
+    {
+      "instance_id": 2030028623,
+      "release_id": 31267247,
+      "master_id": 315467,
+      "artist": "Clifford Jordan",
+      "title": "Cliff Craft",
+      "year": 2024,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "5880784"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "5880784"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "00602458807844"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "00602458807844"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "81582"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BST 81582"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "ST-81582"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2025-06-06T08:34:35-07:00",
+      "discogs_url": "https://www.discogs.com/release/31267247"
+    },
+    {
+      "instance_id": 646188184,
+      "release_id": 13415124,
+      "master_id": 288543,
+      "artist": "Coleman Hawkins, Ben Webster",
+      "title": "Blue Saxophones",
+      "year": 2018,
+      "labels": [
+        {
+          "name": "Vinyl Passion",
+          "catalog_number": "VP 90069"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP"
+          ]
+        }
+      ],
+      "date_added": "2021-03-19T09:27:03-07:00",
+      "discogs_url": "https://www.discogs.com/release/13415124"
+    },
+    {
+      "instance_id": 1400243985,
+      "release_id": 13613861,
+      "master_id": 168322,
+      "artist": "Dexter Gordon",
+      "title": "Doin' Allright",
+      "year": 2019,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "7743593"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "7743593"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "00602577435935"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "00602577435935"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BST 84077"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "ST-84077"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "84077"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2023-07-08T04:17:06-07:00",
+      "discogs_url": "https://www.discogs.com/release/13613861"
+    },
+    {
+      "instance_id": 1340238392,
+      "release_id": 19583212,
+      "master_id": 121331,
+      "artist": "Dexter Gordon",
+      "title": "Go!",
+      "year": 2021,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "3579907"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "3579907"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "ST-84112"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BST 84112"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "00602435799070"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2023-04-28T10:26:15-07:00",
+      "discogs_url": "https://www.discogs.com/release/19583212"
+    },
+    {
+      "instance_id": 508239739,
+      "release_id": 5737387,
+      "master_id": 168325,
+      "artist": "Dexter Gordon",
+      "title": "Our Man In Paris",
+      "year": 2014,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "BST 84146"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "ST 84146"
+        },
+        {
+          "name": "Universal Music Group International",
+          "catalog_number": "0602537743650"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2020-09-19T16:38:02-07:00",
+      "discogs_url": "https://www.discogs.com/release/5737387"
+    },
+    {
+      "instance_id": 1844170872,
+      "release_id": 8779660,
+      "master_id": 169182,
+      "artist": "Diana Krall",
+      "title": "The Look Of Love",
+      "year": 2016,
+      "labels": [
+        {
+          "name": "Verve Records",
+          "catalog_number": "602547377074"
+        },
+        {
+          "name": "Universal Music Group International",
+          "catalog_number": "602547377074"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2024-11-22T06:51:49-08:00",
+      "discogs_url": "https://www.discogs.com/release/8779660"
+    },
+    {
+      "instance_id": 404252432,
+      "release_id": 10247788,
+      "master_id": 1175939,
+      "artist": "Diana Krall",
+      "title": "Turn Up The Quiet",
+      "year": 2017,
+      "labels": [
+        {
+          "name": "Verve Records",
+          "catalog_number": "B0026480-01"
+        },
+        {
+          "name": "Verve Records",
+          "catalog_number": "00602557352184"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Stereo"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Single Sided",
+            "Stereo"
+          ]
+        },
+        {
+          "name": "All Media",
+          "quantity": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ],
+      "date_added": "2019-09-28T15:03:51-07:00",
+      "discogs_url": "https://www.discogs.com/release/10247788"
+    },
+    {
+      "instance_id": 2109123636,
+      "release_id": 2989978,
+      "master_id": 383808,
+      "artist": "Dinah Washington",
+      "title": "Mellow Mama",
+      "year": 2009,
+      "labels": [
+        {
+          "name": "6 Spices",
+          "catalog_number": "6S 229006"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Compilation",
+            "Reissue"
+          ]
+        }
+      ],
+      "date_added": "2026-02-01T04:24:23-08:00",
+      "discogs_url": "https://www.discogs.com/release/2989978"
+    },
+    {
+      "instance_id": 2030028681,
+      "release_id": 16836906,
+      "master_id": 38995,
+      "artist": "Donald Byrd",
+      "title": "Byrd In Flight",
+      "year": 2021,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "B0032113-01"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BST 84048"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "ST-84048"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "84048"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2025-06-06T08:34:47-07:00",
+      "discogs_url": "https://www.discogs.com/release/16836906"
+    },
+    {
+      "instance_id": 337788481,
+      "release_id": 11406415,
+      "master_id": 129362,
+      "artist": "Duke Ellington, Charles Mingus, Max Roach",
+      "title": "Money Jungle",
+      "year": 2017,
+      "labels": [
+        {
+          "name": "DOL",
+          "catalog_number": "DOL840HG"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "date_added": "2018-12-08T16:50:23-08:00",
+      "discogs_url": "https://www.discogs.com/release/11406415"
+    },
+    {
+      "instance_id": 468052883,
+      "release_id": 2682247,
+      "master_id": 175076,
+      "artist": "Duke Ellington, Johnny Hodges",
+      "title": "Back To Back (Duke Ellington And Johnny Hodges Play The Blues)",
+      "year": 2010,
+      "labels": [
+        {
+          "name": "Jazz Wax Records",
+          "catalog_number": "JWR 4528"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "date_added": "2020-05-09T19:08:25-07:00",
+      "discogs_url": "https://www.discogs.com/release/2682247"
+    },
+    {
+      "instance_id": 1400242170,
+      "release_id": 2264128,
+      "master_id": 325827,
+      "artist": "E.S.T.",
+      "title": "Retrospective - The Very Best Of E.S.T.",
+      "year": 2009,
+      "labels": [
+        {
+          "name": "ACT (4)",
+          "catalog_number": "ACT 9021-1"
+        },
+        {
+          "name": "ACT (4)",
+          "catalog_number": "9021-1"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "2",
+          "descriptions": [
+            "LP",
+            "Compilation",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "date_added": "2023-07-08T04:13:55-07:00",
+      "discogs_url": "https://www.discogs.com/release/2264128"
+    },
+    {
+      "instance_id": 404274318,
+      "release_id": 13347832,
+      "master_id": 123332,
+      "artist": "Ella Fitzgerald",
+      "title": "Mack The Knife - Ella In Berlin",
+      "year": 2018,
+      "labels": [
+        {
+          "name": "WaxTime In Color",
+          "catalog_number": "950645"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2019-09-28T16:30:43-07:00",
+      "discogs_url": "https://www.discogs.com/release/13347832"
+    },
+    {
+      "instance_id": 398182207,
+      "release_id": 5353678,
+      "master_id": 173483,
+      "artist": "Ella Fitzgerald, Louis Armstrong",
+      "title": "Porgy & Bess",
+      "year": 2012,
+      "labels": [
+        {
+          "name": "Vinyl Lovers (3)",
+          "catalog_number": "6785400"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "2",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "date_added": "2019-08-31T18:10:08-07:00",
+      "discogs_url": "https://www.discogs.com/release/5353678"
+    },
+    {
+      "instance_id": 646188742,
+      "release_id": 11683028,
+      "master_id": 683870,
+      "artist": "Eric Dolphy",
+      "title": "In Europe",
+      "year": 2018,
+      "labels": [
+        {
+          "name": "Vinyl Passion",
+          "catalog_number": "VP 90040"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "date_added": "2021-03-19T09:27:38-07:00",
+      "discogs_url": "https://www.discogs.com/release/11683028"
+    },
+    {
+      "instance_id": 468072221,
+      "release_id": 5729937,
+      "master_id": 64167,
+      "artist": "Eric Dolphy",
+      "title": "Out To Lunch!",
+      "year": 2014,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "0602537714131"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "ST-84163"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "84163"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "date_added": "2020-05-09T20:01:07-07:00",
+      "discogs_url": "https://www.discogs.com/release/5729937"
+    },
+    {
+      "instance_id": 1400243298,
+      "release_id": 26410094,
+      "master_id": 200850,
+      "artist": "Eric Dolphy Quintet, Freddie Hubbard",
+      "title": "Outward Bound",
+      "year": 2023,
+      "labels": [
+        {
+          "name": "Survival Research",
+          "catalog_number": "SVVRCH074"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Unofficial Release"
+          ]
+        }
+      ],
+      "date_added": "2023-07-08T04:15:51-07:00",
+      "discogs_url": "https://www.discogs.com/release/26410094"
+    },
+    {
+      "instance_id": 425452382,
+      "release_id": 6452257,
+      "master_id": 60424,
+      "artist": "Eva Cassidy",
+      "title": "Songbird",
+      "year": 2014,
+      "labels": [
+        {
+          "name": "Blix Street Records",
+          "catalog_number": "G8-10145"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Compilation",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "date_added": "2019-12-30T10:04:25-08:00",
+      "discogs_url": "https://www.discogs.com/release/6452257"
+    },
+    {
+      "instance_id": 1400242371,
+      "release_id": 7091281,
+      "master_id": 828339,
+      "artist": "Frank Sinatra",
+      "title": "Ultimate Sinatra",
+      "year": 2015,
+      "labels": [
+        {
+          "name": "Capitol Records",
+          "catalog_number": "602547137029"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "602547137029"
+        },
+        {
+          "name": "Signature Sinatra",
+          "catalog_number": "602547137029"
+        },
+        {
+          "name": "Universal Music Group International",
+          "catalog_number": "602547137029"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "2",
+          "descriptions": [
+            "LP",
+            "Compilation"
+          ]
+        }
+      ],
+      "date_added": "2023-07-08T04:14:18-07:00",
+      "discogs_url": "https://www.discogs.com/release/7091281"
+    },
+    {
+      "instance_id": 1400243844,
+      "release_id": 14131526,
+      "master_id": 72373,
+      "artist": "Freddie Hubbard",
+      "title": "Hub-Tones",
+      "year": 2019,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "7764742"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "7764742"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "00602577647420"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "00602577647420"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BST-84115"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "ST-84115"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2023-07-08T04:16:55-07:00",
+      "discogs_url": "https://www.discogs.com/release/14131526"
+    },
+    {
+      "instance_id": 502211676,
+      "release_id": 13755265,
+      "master_id": 177623,
+      "artist": "Freddie Hubbard",
+      "title": "Open Sesame",
+      "year": 2019,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "7745066"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "7745066"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "00602577450662"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "00602577450662"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BST 84040"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2020-08-29T18:01:57-07:00",
+      "discogs_url": "https://www.discogs.com/release/13755265"
+    },
+    {
+      "instance_id": 2000791386,
+      "release_id": 20676037,
+      "master_id": 177616,
+      "artist": "Freddie Hubbard",
+      "title": "Ready For Freddie",
+      "year": 2021,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "3596791"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "3596791"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "84085"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "ST-84085"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BST 84085"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "00602435967912"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2025-04-18T11:11:42-07:00",
+      "discogs_url": "https://www.discogs.com/release/20676037"
+    },
+    {
+      "instance_id": 562474737,
+      "release_id": 533844,
+      "master_id": 72319,
+      "artist": "Freddie Hubbard",
+      "title": "Red Clay",
+      "year": 1970,
+      "labels": [
+        {
+          "name": "CTI Records",
+          "catalog_number": "CTI 6001"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2021-01-04T11:48:12-08:00",
+      "discogs_url": "https://www.discogs.com/release/533844"
+    },
+    {
+      "instance_id": 1447287457,
+      "release_id": 23884931,
+      "master_id": 461765,
+      "artist": "George Braith",
+      "title": "Extension",
+      "year": 2022,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "4535294"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "4535294"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "84171"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BST 84171"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "ST-84171"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "00602445352944"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "00602445352944"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2023-09-01T08:17:47-07:00",
+      "discogs_url": "https://www.discogs.com/release/23884931"
+    },
+    {
+      "instance_id": 421688814,
+      "release_id": 14175153,
+      "master_id": 304218,
+      "artist": "Gerry Mulligan, Ben Webster",
+      "title": "Gerry Mulligan Meets Ben Webster",
+      "year": 2019,
+      "labels": [
+        {
+          "name": "Verve Records",
+          "catalog_number": "000602577271816"
+        },
+        {
+          "name": "Verve Records",
+          "catalog_number": "MG V-8343"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2019-12-14T15:52:51-08:00",
+      "discogs_url": "https://www.discogs.com/release/14175153"
+    },
+    {
+      "instance_id": 2057592610,
+      "release_id": 14314655,
+      "master_id": 391169,
+      "artist": "Grant Green",
+      "title": "Born To Be Blue",
+      "year": 2019,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "B0030486-01"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "84432"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BST 84432"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2025-09-03T08:33:25-07:00",
+      "discogs_url": "https://www.discogs.com/release/14314655"
+    },
+    {
+      "instance_id": 404451956,
+      "release_id": 5738035,
+      "master_id": 163276,
+      "artist": "Grant Green",
+      "title": "Idle Moments",
+      "year": 2014,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "ST-84154"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "B0020424-01"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "B0020424-01"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "84154"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BST 84154"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2019-09-29T11:17:21-07:00",
+      "discogs_url": "https://www.discogs.com/release/5738035"
+    },
+    {
+      "instance_id": 470577119,
+      "release_id": 6753934,
+      "master_id": 725376,
+      "artist": "Grant Green Quartet, Sonny Clark",
+      "title": "Oleo",
+      "year": 2015,
+      "labels": [
+        {
+          "name": "WaxTime",
+          "catalog_number": "772013"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "date_added": "2020-05-16T14:41:37-07:00",
+      "discogs_url": "https://www.discogs.com/release/6753934"
+    },
+    {
+      "instance_id": 425452545,
+      "release_id": 4867259,
+      "master_id": 592975,
+      "artist": "Gregory Porter",
+      "title": "Liquid Spirit",
+      "year": 2013,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "0602537431540"
+        },
+        {
+          "name": "Universal Music Classics & Jazz France",
+          "catalog_number": "0602537431540"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "2",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "date_added": "2019-12-30T10:05:26-08:00",
+      "discogs_url": "https://www.discogs.com/release/4867259"
+    },
+    {
+      "instance_id": 479946936,
+      "release_id": 7001748,
+      "master_id": 59348,
+      "artist": "Grover Washington, Jr.",
+      "title": "Winelight",
+      "year": 2015,
+      "labels": [
+        {
+          "name": "Music On Vinyl",
+          "catalog_number": "MOVLP1377"
+        },
+        {
+          "name": "Elektra",
+          "catalog_number": "MOVLP1377"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2020-06-13T14:19:06-07:00",
+      "discogs_url": "https://www.discogs.com/release/7001748"
+    },
+    {
+      "instance_id": 419161309,
+      "release_id": 5739041,
+      "master_id": 62796,
+      "artist": "Hank Mobley",
+      "title": "Soul Station",
+      "year": 2014,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "84031"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "ST-84031"
+        },
+        {
+          "name": "Universal Music Group International",
+          "catalog_number": "0602537782048"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "0602537782048"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2019-12-02T17:21:04-08:00",
+      "discogs_url": "https://www.discogs.com/release/5739041"
+    },
+    {
+      "instance_id": 470577692,
+      "release_id": 4791445,
+      "master_id": 166308,
+      "artist": "Hank Mobley",
+      "title": "Workout",
+      "year": 2013,
+      "labels": [
+        {
+          "name": "WaxTime",
+          "catalog_number": "771853"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "date_added": "2020-05-16T14:43:01-07:00",
+      "discogs_url": "https://www.discogs.com/release/4791445"
+    },
+    {
+      "instance_id": 550578984,
+      "release_id": 6003577,
+      "master_id": 80177,
+      "artist": "Harry Belafonte",
+      "title": "Belafonte At Carnegie Hall: The Complete Concert",
+      "year": 2014,
+      "labels": [
+        {
+          "name": "Speakers Corner Records",
+          "catalog_number": "LSO 6006"
+        },
+        {
+          "name": "Speakers Corner Records",
+          "catalog_number": "LSO 6006 (2)"
+        },
+        {
+          "name": "Speakers Corner Records",
+          "catalog_number": "RCA 6006"
+        },
+        {
+          "name": "RCA Victor",
+          "catalog_number": "LSO 6006"
+        },
+        {
+          "name": "RCA Victor",
+          "catalog_number": "LSO 6006 (2)"
+        },
+        {
+          "name": "RCA Victor",
+          "catalog_number": "RCA 6006"
+        },
+        {
+          "name": "Sony Music",
+          "catalog_number": "LSO 6006"
+        },
+        {
+          "name": "Sony Music",
+          "catalog_number": "LSO 6006 (2)"
+        },
+        {
+          "name": "Sony Music",
+          "catalog_number": "RCA 6006"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2020-12-25T04:29:47-08:00",
+      "discogs_url": "https://www.discogs.com/release/6003577"
+    },
+    {
+      "instance_id": 468050541,
+      "release_id": 2542733,
+      "master_id": 19493,
+      "artist": "Herbie Hancock",
+      "title": "Head Hunters",
+      "year": 2009,
+      "labels": [
+        {
+          "name": "Music On Vinyl",
+          "catalog_number": "MOVLP030"
+        },
+        {
+          "name": "Legacy",
+          "catalog_number": "88697392181"
+        },
+        {
+          "name": "Columbia",
+          "catalog_number": "88697392181"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "date_added": "2020-05-09T19:02:06-07:00",
+      "discogs_url": "https://www.discogs.com/release/2542733"
+    },
+    {
+      "instance_id": 508239591,
+      "release_id": 14317057,
+      "master_id": 260247,
+      "artist": "Ike Quebec",
+      "title": "Blue & Sentimental",
+      "year": 2019,
+      "labels": [
+        {
+          "name": "DOL",
+          "catalog_number": "DOL1068HG"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2020-09-19T16:37:32-07:00",
+      "discogs_url": "https://www.discogs.com/release/14317057"
+    },
+    {
+      "instance_id": 479946578,
+      "release_id": 13465629,
+      "master_id": 338764,
+      "artist": "Ike Quebec, Kenny Burrell, Willie Bobo, Wendell Marshall, Garvin Masseaux",
+      "title": "Bossa Nova Soul Samba",
+      "year": 2013,
+      "labels": [
+        {
+          "name": "DOL",
+          "catalog_number": "DOL1061HG"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Deluxe Edition",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2020-06-13T14:17:55-07:00",
+      "discogs_url": "https://www.discogs.com/release/13465629"
+    },
+    {
+      "instance_id": 1506153784,
+      "release_id": 25504444,
+      "master_id": 174533,
+      "artist": "J.J. Johnson",
+      "title": "The Eminent Jay Jay Johnson Volume 1",
+      "year": 2022,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "4535351"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "4535351"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "00602445353514"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "00602445353514"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BLP 1505"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "BLP 1505"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "1505"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Compilation",
+            "Reissue",
+            "Remastered",
+            "Mono"
+          ]
+        }
+      ],
+      "date_added": "2023-11-10T09:02:09-08:00",
+      "discogs_url": "https://www.discogs.com/release/25504444"
+    },
+    {
+      "instance_id": 468069295,
+      "release_id": 7504624,
+      "master_id": 164874,
+      "artist": "J.J. Johnson, Kai Winding",
+      "title": "The Great Kai & J. J.",
+      "year": 2014,
+      "labels": [
+        {
+          "name": "WaxTime",
+          "catalog_number": "771995"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2020-05-09T19:52:39-07:00",
+      "discogs_url": "https://www.discogs.com/release/7504624"
+    },
+    {
+      "instance_id": 421688305,
+      "release_id": 1857279,
+      "master_id": 60843,
+      "artist": "James Brown",
+      "title": "Gettin' Down To It",
+      "year": null,
+      "labels": [
+        {
+          "name": "Polydor",
+          "catalog_number": "PD 1051"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "date_added": "2019-12-14T15:50:46-08:00",
+      "discogs_url": "https://www.discogs.com/release/1857279"
+    },
+    {
+      "instance_id": 421688407,
+      "release_id": 6646334,
+      "master_id": 796725,
+      "artist": "Jan Gunnar Hoff",
+      "title": "Fly North",
+      "year": 2014,
+      "labels": [
+        {
+          "name": "Losen Records",
+          "catalog_number": "LOS 119-1"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "date_added": "2019-12-14T15:51:13-08:00",
+      "discogs_url": "https://www.discogs.com/release/6646334"
+    },
+    {
+      "instance_id": 1340237570,
+      "release_id": 14877929,
+      "master_id": 1695956,
+      "artist": "Jazz Sabbath",
+      "title": "Jazz Sabbath",
+      "year": 2020,
+      "labels": [
+        {
+          "name": "Blacklake",
+          "catalog_number": "BL411348"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "date_added": "2023-04-28T10:25:27-07:00",
+      "discogs_url": "https://www.discogs.com/release/14877929"
+    },
+    {
+      "instance_id": 2109123539,
+      "release_id": 35777332,
+      "master_id": 4143343,
+      "artist": "Jazz Sabbath",
+      "title": "Jazz Sabbath Live",
+      "year": 2025,
+      "labels": [
+        {
+          "name": "Blacklake",
+          "catalog_number": "BL411401"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Record Store Day",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "date_added": "2026-02-01T04:24:11-08:00",
+      "discogs_url": "https://www.discogs.com/release/35777332"
+    },
+    {
+      "instance_id": 2109124105,
+      "release_id": 32447187,
+      "master_id": 3669915,
+      "artist": "Jazz Sabbath",
+      "title": "The 1968 Tapes",
+      "year": 2024,
+      "labels": [
+        {
+          "name": "Blacklake",
+          "catalog_number": "BL411391"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2026-02-01T04:25:39-08:00",
+      "discogs_url": "https://www.discogs.com/release/32447187"
+    },
+    {
+      "instance_id": 1326853166,
+      "release_id": 19270828,
+      "master_id": 33187,
+      "artist": "Jimmy Smith",
+      "title": "Back At The Chicken Shack",
+      "year": 2021,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "3579051"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "3579051"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "00602435790510"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "00602435790510"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "84117"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "ST-84117"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BST 84117"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2023-04-15T07:33:47-07:00",
+      "discogs_url": "https://www.discogs.com/release/19270828"
+    },
+    {
+      "instance_id": 479946712,
+      "release_id": 11082050,
+      "master_id": 33108,
+      "artist": "Jimmy Smith",
+      "title": "Midnight Special",
+      "year": 2017,
+      "labels": [
+        {
+          "name": "Jazz Images",
+          "catalog_number": "37056"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Deluxe Edition",
+            "Limited Edition",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2020-06-13T14:18:27-07:00",
+      "discogs_url": "https://www.discogs.com/release/11082050"
+    },
+    {
+      "instance_id": 2030028543,
+      "release_id": 29811958,
+      "master_id": 176816,
+      "artist": "Joe Henderson",
+      "title": "Mode For Joe",
+      "year": 2024,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "5524256"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "5524256"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "00602455242563"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "00602455242563"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "84227"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "ST-84227"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BST 84227"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2025-06-06T08:34:22-07:00",
+      "discogs_url": "https://www.discogs.com/release/29811958"
+    },
+    {
+      "instance_id": 1447285624,
+      "release_id": 17366254,
+      "master_id": 176819,
+      "artist": "Joe Henderson",
+      "title": "Page One",
+      "year": 2021,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "0746563"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "00602507465636"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "84140"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "ST-84140"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BST 84140"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2023-09-01T08:15:43-07:00",
+      "discogs_url": "https://www.discogs.com/release/17366254"
+    },
+    {
+      "instance_id": 508239864,
+      "release_id": 12277639,
+      "master_id": null,
+      "artist": "Joe Pass Quartet",
+      "title": "Walking Up",
+      "year": 2018,
+      "labels": [
+        {
+          "name": "Vinyl Lovers (3)",
+          "catalog_number": "6785499"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "date_added": "2020-09-19T16:38:27-07:00",
+      "discogs_url": "https://www.discogs.com/release/12277639"
+    },
+    {
+      "instance_id": 468050629,
+      "release_id": 10136969,
+      "master_id": 32287,
+      "artist": "John Coltrane",
+      "title": "A Love Supreme",
+      "year": 2017,
+      "labels": [
+        {
+          "name": "Audio Clarity",
+          "catalog_number": "ACL 0001"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Unofficial Release",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2020-05-09T19:02:24-07:00",
+      "discogs_url": "https://www.discogs.com/release/10136969"
+    },
+    {
+      "instance_id": 2067068957,
+      "release_id": 14208558,
+      "master_id": 91613,
+      "artist": "John Coltrane",
+      "title": "Birdland 1962",
+      "year": 2019,
+      "labels": [
+        {
+          "name": "Vinyl Passion",
+          "catalog_number": "VP 90125"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2025-10-04T10:33:49-07:00",
+      "discogs_url": "https://www.discogs.com/release/14208558"
+    },
+    {
+      "instance_id": 336195485,
+      "release_id": 6606240,
+      "master_id": 32208,
+      "artist": "John Coltrane",
+      "title": "Blue Train",
+      "year": 2015,
+      "labels": [
+        {
+          "name": "DOL",
+          "catalog_number": "DOL709H"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "date_added": "2018-11-30T17:15:13-08:00",
+      "discogs_url": "https://www.discogs.com/release/6606240"
+    },
+    {
+      "instance_id": 341912410,
+      "release_id": 10456756,
+      "master_id": 32236,
+      "artist": "John Coltrane",
+      "title": "Giant Steps",
+      "year": 2017,
+      "labels": [
+        {
+          "name": "Atlantic",
+          "catalog_number": "1311"
+        },
+        {
+          "name": "Atlantic",
+          "catalog_number": "081227945251"
+        },
+        {
+          "name": "Atlantic",
+          "catalog_number": "SD 1311"
+        },
+        {
+          "name": "Atlantic",
+          "catalog_number": "RR1 555371"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Mono"
+          ]
+        }
+      ],
+      "date_added": "2018-12-28T19:09:25-08:00",
+      "discogs_url": "https://www.discogs.com/release/10456756"
+    },
+    {
+      "instance_id": 2084073278,
+      "release_id": 10231702,
+      "master_id": 75702,
+      "artist": "John Coltrane",
+      "title": "Live At The Village Vanguard",
+      "year": 2017,
+      "labels": [
+        {
+          "name": "Vinyl Passion",
+          "catalog_number": "VP 80092"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2025-11-27T07:51:09-08:00",
+      "discogs_url": "https://www.discogs.com/release/10231702"
+    },
+    {
+      "instance_id": 2046758748,
+      "release_id": 3897169,
+      "master_id": 32265,
+      "artist": "John Coltrane",
+      "title": "My Favorite Things",
+      "year": 2010,
+      "labels": [
+        {
+          "name": "Atlantic",
+          "catalog_number": "1361"
+        },
+        {
+          "name": "Atlantic",
+          "catalog_number": "SD-1361"
+        },
+        {
+          "name": "Atlantic",
+          "catalog_number": "SD 1361"
+        },
+        {
+          "name": "Rhino Vinyl",
+          "catalog_number": "8122798049"
+        },
+        {
+          "name": "Rhino Records (2)",
+          "catalog_number": "8122798049"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2025-08-01T07:55:38-07:00",
+      "discogs_url": "https://www.discogs.com/release/3897169"
+    },
+    {
+      "instance_id": 468073235,
+      "release_id": 10992046,
+      "master_id": 32342,
+      "artist": "John Coltrane, Johnny Hartman",
+      "title": "John Coltrane And Johnny Hartman",
+      "year": null,
+      "labels": [
+        {
+          "name": "Impulse!",
+          "catalog_number": "GR-157"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "date_added": "2020-05-09T20:03:52-07:00",
+      "discogs_url": "https://www.discogs.com/release/10992046"
+    },
+    {
+      "instance_id": 1400243709,
+      "release_id": 13744596,
+      "master_id": 343406,
+      "artist": "Johnny Griffin",
+      "title": "Introducing Johnny Griffin",
+      "year": 2019,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "7745064"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "7745064"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BLP 1533"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "1533"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "00602577450648"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "00602577450648"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Mono"
+          ]
+        }
+      ],
+      "date_added": "2023-07-08T04:16:41-07:00",
+      "discogs_url": "https://www.discogs.com/release/13744596"
+    },
+    {
+      "instance_id": 2057592705,
+      "release_id": 32261442,
+      "master_id": 232694,
+      "artist": "Johnny Hartman",
+      "title": "I Just Dropped By To Say Hello",
+      "year": 2024,
+      "labels": [
+        {
+          "name": "Impulse!",
+          "catalog_number": "A-57"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2025-09-03T08:33:43-07:00",
+      "discogs_url": "https://www.discogs.com/release/32261442"
+    },
+    {
+      "instance_id": 646188448,
+      "release_id": 13617843,
+      "master_id": 1527207,
+      "artist": "Joshua Redman Quartet",
+      "title": "Come What May",
+      "year": 2019,
+      "labels": [
+        {
+          "name": "Nonesuch",
+          "catalog_number": "7559-79267-4"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "date_added": "2021-03-19T09:27:18-07:00",
+      "discogs_url": "https://www.discogs.com/release/13617843"
+    },
+    {
+      "instance_id": 2067068762,
+      "release_id": 24447863,
+      "master_id": 2777726,
+      "artist": "Joshua Redman, Brad Mehldau, Christian McBride, Brian Blade",
+      "title": "LongGone ",
+      "year": 2022,
+      "labels": [
+        {
+          "name": "Nonesuch",
+          "catalog_number": "075597910018"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "date_added": "2025-10-04T10:33:17-07:00",
+      "discogs_url": "https://www.discogs.com/release/24447863"
+    },
+    {
+      "instance_id": 1704708672,
+      "release_id": 7383499,
+      "master_id": 837501,
+      "artist": "Kamasi Washington",
+      "title": "The Epic",
+      "year": 2015,
+      "labels": [
+        {
+          "name": "Brainfeeder",
+          "catalog_number": "BF050"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "3",
+          "descriptions": [
+            "LP"
+          ]
+        },
+        {
+          "name": "Box Set",
+          "quantity": "1",
+          "descriptions": [
+            "Album"
+          ]
+        }
+      ],
+      "date_added": "2024-06-08T10:02:48-07:00",
+      "discogs_url": "https://www.discogs.com/release/7383499"
+    },
+    {
+      "instance_id": 1766285836,
+      "release_id": 8935334,
+      "master_id": 358514,
+      "artist": "Karin Krog, Steve Kuhn, Steve Swallow, Jon Christensen",
+      "title": "We Could Be Flying",
+      "year": 2016,
+      "labels": [
+        {
+          "name": "Meantime Records (2)",
+          "catalog_number": "MRLP13"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2024-08-23T09:07:50-07:00",
+      "discogs_url": "https://www.discogs.com/release/8935334"
+    },
+    {
+      "instance_id": 1326854438,
+      "release_id": 3979641,
+      "master_id": 26241,
+      "artist": "Keith Jarrett",
+      "title": "The Köln Concert",
+      "year": 2010,
+      "labels": [
+        {
+          "name": "ECM Records",
+          "catalog_number": "ECM 1064/65"
+        },
+        {
+          "name": "ECM Records",
+          "catalog_number": "ECM 1064/65 ST"
+        },
+        {
+          "name": "ECM Records",
+          "catalog_number": "272 7888"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2023-04-15T07:35:02-07:00",
+      "discogs_url": "https://www.discogs.com/release/3979641"
+    },
+    {
+      "instance_id": 404280977,
+      "release_id": 2771534,
+      "master_id": 326676,
+      "artist": "Keith Jarrett Trio",
+      "title": "Tribute",
+      "year": 2010,
+      "labels": [
+        {
+          "name": "ECM Records",
+          "catalog_number": "ECM 1420/21"
+        },
+        {
+          "name": "ECM Records",
+          "catalog_number": "847 135-1"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "date_added": "2019-09-28T16:57:35-07:00",
+      "discogs_url": "https://www.discogs.com/release/2771534"
+    },
+    {
+      "instance_id": 419161542,
+      "release_id": 13919327,
+      "master_id": 407036,
+      "artist": "Kenny Burrell",
+      "title": "Introducing Kenny Burrell",
+      "year": 2019,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "B0029974-01"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BN 1523"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "1523"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Mono"
+          ]
+        }
+      ],
+      "date_added": "2019-12-02T17:22:06-08:00",
+      "discogs_url": "https://www.discogs.com/release/13919327"
+    },
+    {
+      "instance_id": 404309744,
+      "release_id": 11717850,
+      "master_id": 178718,
+      "artist": "Kenny Burrell",
+      "title": "Midnight Blue",
+      "year": 2017,
+      "labels": [
+        {
+          "name": "DOL",
+          "catalog_number": "DOL881HG"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Unofficial Release"
+          ]
+        }
+      ],
+      "date_added": "2019-09-28T19:01:43-07:00",
+      "discogs_url": "https://www.discogs.com/release/11717850"
+    },
+    {
+      "instance_id": 2046759493,
+      "release_id": 30861855,
+      "master_id": 178716,
+      "artist": "Kenny Burrell, John Coltrane",
+      "title": "Kenny Burrell & John Coltrane",
+      "year": 2024,
+      "labels": [
+        {
+          "name": "Craft Recordings",
+          "catalog_number": "CR00720"
+        },
+        {
+          "name": "New Jazz",
+          "catalog_number": "CR00720"
+        },
+        {
+          "name": "New Jazz",
+          "catalog_number": "NJ 8276"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Mono"
+          ]
+        }
+      ],
+      "date_added": "2025-08-01T07:57:48-07:00",
+      "discogs_url": "https://www.discogs.com/release/30861855"
+    },
+    {
+      "instance_id": 2000795835,
+      "release_id": 24982477,
+      "master_id": 2285338,
+      "artist": "Lady Blackbird",
+      "title": "Black Acid Soul",
+      "year": 2022,
+      "labels": [
+        {
+          "name": "Foundation Music (6)",
+          "catalog_number": "538830160"
+        },
+        {
+          "name": "BMG",
+          "catalog_number": "538830160"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Compilation"
+          ]
+        },
+        {
+          "name": "All Media",
+          "quantity": "1",
+          "descriptions": [
+            "Deluxe Edition"
+          ]
+        }
+      ],
+      "date_added": "2025-04-18T11:15:36-07:00",
+      "discogs_url": "https://www.discogs.com/release/24982477"
+    },
+    {
+      "instance_id": 2030028955,
+      "release_id": 12439340,
+      "master_id": 1457115,
+      "artist": "Lassen (2)",
+      "title": "Eventyrer",
+      "year": 2018,
+      "labels": [
+        {
+          "name": "Jazzland Recordings",
+          "catalog_number": "377 908 2"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "date_added": "2025-06-06T08:35:42-07:00",
+      "discogs_url": "https://www.discogs.com/release/12439340"
+    },
+    {
+      "instance_id": 1732619623,
+      "release_id": 29810041,
+      "master_id": 192310,
+      "artist": "Lee Morgan",
+      "title": "Search For The New Land",
+      "year": 2024,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "5831994"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "5831994"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "00602458319941"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "00602458319941"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "84169"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BST-84169"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "ST-84169"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2024-07-12T08:00:28-07:00",
+      "discogs_url": "https://www.discogs.com/release/29810041"
+    },
+    {
+      "instance_id": 470578642,
+      "release_id": 6394503,
+      "master_id": 192306,
+      "artist": "Lee Morgan",
+      "title": "The Sidewinder",
+      "year": 2014,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "84157"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BST 84157"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "ST-84157"
+        },
+        {
+          "name": "Universal Music Group International",
+          "catalog_number": "00602537935437"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2020-05-16T14:45:28-07:00",
+      "discogs_url": "https://www.discogs.com/release/6394503"
+    },
+    {
+      "instance_id": 1326853346,
+      "release_id": 23564258,
+      "master_id": 64257,
+      "artist": "Lou Donaldson",
+      "title": "Blues Walk",
+      "year": 2022,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "4535208"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "4535208"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BST-81593"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "ST-81593"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "81593"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "00602445352081"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "00602445352081"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2023-04-15T07:33:59-07:00",
+      "discogs_url": "https://www.discogs.com/release/23564258"
+    },
+    {
+      "instance_id": 2030028457,
+      "release_id": 34028379,
+      "master_id": 3852297,
+      "artist": "M.T.B.",
+      "title": "Solid Jackson",
+      "year": 2025,
+      "labels": [
+        {
+          "name": "Criss Cross Jazz",
+          "catalog_number": "1423 LP"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2025-06-06T08:34:08-07:00",
+      "discogs_url": "https://www.discogs.com/release/34028379"
+    },
+    {
+      "instance_id": 479946843,
+      "release_id": 7387632,
+      "master_id": 887761,
+      "artist": "Manny Albam",
+      "title": "The Jazz Greats Of Our Time - Vol. 2",
+      "year": 2009,
+      "labels": [
+        {
+          "name": "52nd Street Records",
+          "catalog_number": "FSST111LP"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "date_added": "2020-06-13T14:18:48-07:00",
+      "discogs_url": "https://www.discogs.com/release/7387632"
+    },
+    {
+      "instance_id": 2030028878,
+      "release_id": 21679996,
+      "master_id": 2570174,
+      "artist": "Maridalen",
+      "title": "Maridalen",
+      "year": 2021,
+      "labels": [
+        {
+          "name": "Jazzland Recordings",
+          "catalog_number": "377 940 4"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "date_added": "2025-06-06T08:35:26-07:00",
+      "discogs_url": "https://www.discogs.com/release/21679996"
+    },
+    {
+      "instance_id": 1447286182,
+      "release_id": 16316769,
+      "master_id": 92930,
+      "artist": "McCoy Tyner",
+      "title": "The Real McCoy",
+      "year": 2020,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "0743884"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "0743884"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "00602507438845"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "00602507438845"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BST 84264"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BLP 4264/84264"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2023-09-01T08:16:23-07:00",
+      "discogs_url": "https://www.discogs.com/release/16316769"
+    },
+    {
+      "instance_id": 1340238041,
+      "release_id": 15302660,
+      "master_id": 128629,
+      "artist": "Melody Gardot",
+      "title": "My One And Only Thrill",
+      "year": null,
+      "labels": [
+        {
+          "name": "Universal Music",
+          "catalog_number": "1796787"
+        },
+        {
+          "name": "Verve Records",
+          "catalog_number": "1796787"
+        },
+        {
+          "name": "UCJ Music",
+          "catalog_number": "1796787"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "date_added": "2023-04-28T10:25:53-07:00",
+      "discogs_url": "https://www.discogs.com/release/15302660"
+    },
+    {
+      "instance_id": 1400242707,
+      "release_id": 13338290,
+      "master_id": 128630,
+      "artist": "Melody Gardot",
+      "title": "Worrisome Heart",
+      "year": 2018,
+      "labels": [
+        {
+          "name": "UCJ Music",
+          "catalog_number": "1778756"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Repress"
+          ]
+        }
+      ],
+      "date_added": "2023-07-08T04:14:47-07:00",
+      "discogs_url": "https://www.discogs.com/release/13338290"
+    },
+    {
+      "instance_id": 2057592930,
+      "release_id": 32566617,
+      "master_id": 285470,
+      "artist": "Miles Davis",
+      "title": "Birth Of The Blue",
+      "year": 2024,
+      "labels": [
+        {
+          "name": "Analogue Productions",
+          "catalog_number": "APJ 172"
+        },
+        {
+          "name": "Columbia",
+          "catalog_number": "19802816621"
+        },
+        {
+          "name": "Sony Music",
+          "catalog_number": "19802816621"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Compilation",
+            "Limited Edition",
+            "Numbered",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2025-09-03T08:34:27-07:00",
+      "discogs_url": "https://www.discogs.com/release/32566617"
+    },
+    {
+      "instance_id": 468058205,
+      "release_id": 13870073,
+      "master_id": 62308,
+      "artist": "Miles Davis",
+      "title": "Birth Of The Cool",
+      "year": 2019,
+      "labels": [
+        {
+          "name": "Wax Love",
+          "catalog_number": "WLV82128"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Compilation",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "date_added": "2020-05-09T19:22:51-07:00",
+      "discogs_url": "https://www.discogs.com/release/13870073"
+    },
+    {
+      "instance_id": 348909366,
+      "release_id": 7609610,
+      "master_id": 8260,
+      "artist": "Miles Davis",
+      "title": "Bitches Brew",
+      "year": 2015,
+      "labels": [
+        {
+          "name": "Columbia",
+          "catalog_number": "88875111901"
+        },
+        {
+          "name": "Sony Music",
+          "catalog_number": "88875111901"
+        },
+        {
+          "name": "Legacy",
+          "catalog_number": "88875111901"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "date_added": "2019-01-24T19:38:22-08:00",
+      "discogs_url": "https://www.discogs.com/release/7609610"
+    },
+    {
+      "instance_id": 336195214,
+      "release_id": 7606066,
+      "master_id": 5460,
+      "artist": "Miles Davis",
+      "title": "Kind Of Blue",
+      "year": 2015,
+      "labels": [
+        {
+          "name": "Columbia",
+          "catalog_number": "88875111921"
+        },
+        {
+          "name": "Legacy",
+          "catalog_number": "88875111921"
+        },
+        {
+          "name": "Sony Music",
+          "catalog_number": "88875111921"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Repress",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2018-11-30T17:13:40-08:00",
+      "discogs_url": "https://www.discogs.com/release/7606066"
+    },
+    {
+      "instance_id": 468067323,
+      "release_id": 7010405,
+      "master_id": 63355,
+      "artist": "Miles Davis",
+      "title": "Tutu",
+      "year": 2015,
+      "labels": [
+        {
+          "name": "Warner Bros. Records",
+          "catalog_number": "0081227955434"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        },
+        {
+          "name": "All Media",
+          "quantity": "1",
+          "descriptions": [
+            "Deluxe Edition"
+          ]
+        }
+      ],
+      "date_added": "2020-05-09T19:47:19-07:00",
+      "discogs_url": "https://www.discogs.com/release/7010405"
+    },
+    {
+      "instance_id": 606764230,
+      "release_id": 12746234,
+      "master_id": 1552308,
+      "artist": "Miles Davis, John Coltrane",
+      "title": "Trane's Blues",
+      "year": 2018,
+      "labels": [
+        {
+          "name": "Dreyfus Jazz",
+          "catalog_number": "4050538423341"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Compilation"
+          ]
+        }
+      ],
+      "date_added": "2021-02-12T09:53:38-08:00",
+      "discogs_url": "https://www.discogs.com/release/12746234"
+    },
+    {
+      "instance_id": 526441938,
+      "release_id": 15510302,
+      "master_id": 1759557,
+      "artist": "MonicaZ Vals",
+      "title": "Enkel, Vacker, Öm",
+      "year": 2019,
+      "labels": [
+        {
+          "name": "Curling Legs",
+          "catalog_number": "CLPLP 169"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "date_added": "2020-11-19T14:07:38-08:00",
+      "discogs_url": "https://www.discogs.com/release/15510302"
+    },
+    {
+      "instance_id": 2084073404,
+      "release_id": 25546084,
+      "master_id": 2994344,
+      "artist": "Nancy Wilson, Cannonball Adderley, George Shearing",
+      "title": "Nancy Wilson With Cannonball Adderley & George Shearing",
+      "year": 2022,
+      "labels": [
+        {
+          "name": "WaxTime",
+          "catalog_number": "772310"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        },
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        },
+        {
+          "name": "All Media",
+          "quantity": "1",
+          "descriptions": [
+            "Compilation",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "date_added": "2025-11-27T07:51:34-08:00",
+      "discogs_url": "https://www.discogs.com/release/25546084"
+    },
+    {
+      "instance_id": 646187749,
+      "release_id": 7049826,
+      "master_id": 122308,
+      "artist": "Nina Simone",
+      "title": "At The Village Gate",
+      "year": 2014,
+      "labels": [
+        {
+          "name": "Vinyl Passion",
+          "catalog_number": "VP 80041"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "date_added": "2021-03-19T09:26:39-07:00",
+      "discogs_url": "https://www.discogs.com/release/7049826"
+    },
+    {
+      "instance_id": 639476623,
+      "release_id": 2807363,
+      "master_id": 77379,
+      "artist": "Nina Simone",
+      "title": "Silk & Soul",
+      "year": 2011,
+      "labels": [
+        {
+          "name": "Music On Vinyl",
+          "catalog_number": "MOVLP249"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "date_added": "2021-03-13T07:19:54-08:00",
+      "discogs_url": "https://www.discogs.com/release/2807363"
+    },
+    {
+      "instance_id": 430462170,
+      "release_id": 4721455,
+      "master_id": 56196,
+      "artist": "Oliver Nelson",
+      "title": "The Blues And The Abstract Truth",
+      "year": 2013,
+      "labels": [
+        {
+          "name": "Jazz Wax Records",
+          "catalog_number": "JWR 4538"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "date_added": "2020-01-17T18:11:01-08:00",
+      "discogs_url": "https://www.discogs.com/release/4721455"
+    },
+    {
+      "instance_id": 502212956,
+      "release_id": 12017124,
+      "master_id": 47813,
+      "artist": "Ornette Coleman",
+      "title": "The Shape Of Jazz To Come",
+      "year": 2018,
+      "labels": [
+        {
+          "name": "Jazz Images",
+          "catalog_number": "37092"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Deluxe Edition",
+            "Limited Edition",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2020-08-29T18:05:18-07:00",
+      "discogs_url": "https://www.discogs.com/release/12017124"
+    },
+    {
+      "instance_id": 468056425,
+      "release_id": 12484250,
+      "master_id": 1436808,
+      "artist": "Pat Martino",
+      "title": "Formidable",
+      "year": 2018,
+      "labels": [
+        {
+          "name": "HighNote Records, Inc.",
+          "catalog_number": "HLP 7307"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2020-05-09T19:17:57-07:00",
+      "discogs_url": "https://www.discogs.com/release/12484250"
+    },
+    {
+      "instance_id": 421688725,
+      "release_id": 4992066,
+      "master_id": 54813,
+      "artist": "Pat Metheny Group",
+      "title": "Travels",
+      "year": 2010,
+      "labels": [
+        {
+          "name": "ECM Records",
+          "catalog_number": "ECM 1252/53"
+        },
+        {
+          "name": "ECM Records",
+          "catalog_number": "810622-1"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2019-12-14T15:52:31-08:00",
+      "discogs_url": "https://www.discogs.com/release/4992066"
+    },
+    {
+      "instance_id": 479946647,
+      "release_id": 11253579,
+      "master_id": 175092,
+      "artist": "Paul Desmond, Gerry Mulligan",
+      "title": "Two Of A Mind",
+      "year": 2017,
+      "labels": [
+        {
+          "name": "Spiral Records (7)",
+          "catalog_number": "8105261"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "date_added": "2020-06-13T14:18:12-07:00",
+      "discogs_url": "https://www.discogs.com/release/11253579"
+    },
+    {
+      "instance_id": 1844172126,
+      "release_id": 17165866,
+      "master_id": 143814,
+      "artist": "Peggy Lee",
+      "title": "Black Coffee With Peggy Lee",
+      "year": 2021,
+      "labels": [
+        {
+          "name": "Decca",
+          "catalog_number": "B0032834-01"
+        },
+        {
+          "name": "Decca",
+          "catalog_number": "DL 8358"
+        },
+        {
+          "name": "Verve Records",
+          "catalog_number": "B0032834-01"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "B0032834-01"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Mono"
+          ]
+        }
+      ],
+      "date_added": "2024-11-22T06:53:33-08:00",
+      "discogs_url": "https://www.discogs.com/release/17165866"
+    },
+    {
+      "instance_id": 426934024,
+      "release_id": 8779218,
+      "master_id": 1030048,
+      "artist": "Radka Toneff",
+      "title": "Live In Hamburg",
+      "year": 2016,
+      "labels": [
+        {
+          "name": "Odin",
+          "catalog_number": "ODINLP9552"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "2",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "date_added": "2020-01-04T17:10:18-08:00",
+      "discogs_url": "https://www.discogs.com/release/8779218"
+    },
+    {
+      "instance_id": 2168271332,
+      "release_id": 6189091,
+      "master_id": 183185,
+      "artist": "Radka Toneff",
+      "title": "Winter Poem",
+      "year": 2013,
+      "labels": [
+        {
+          "name": "Universal Music Group",
+          "catalog_number": "602537441655"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "date_added": "2026-07-28T06:57:07-07:00",
+      "discogs_url": "https://www.discogs.com/release/6189091"
+    },
+    {
+      "instance_id": 336196193,
+      "release_id": 4592395,
+      "master_id": 74698,
+      "artist": "Radka Toneff, Steve Dobrogosz",
+      "title": "Fairytales",
+      "year": 2004,
+      "labels": [
+        {
+          "name": "Odin",
+          "catalog_number": "Odin LP03"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "date_added": "2018-11-30T17:18:48-08:00",
+      "discogs_url": "https://www.discogs.com/release/4592395"
+    },
+    {
+      "instance_id": 1732620199,
+      "release_id": 31019200,
+      "master_id": 43936,
+      "artist": "Sade",
+      "title": "Diamond Life",
+      "year": 2024,
+      "labels": [
+        {
+          "name": "Epic",
+          "catalog_number": "19658784801"
+        },
+        {
+          "name": "Sony Music",
+          "catalog_number": "19658784801"
+        },
+        {
+          "name": "Epic",
+          "catalog_number": "EPC 26044"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "date_added": "2024-07-12T08:01:12-07:00",
+      "discogs_url": "https://www.discogs.com/release/31019200"
+    },
+    {
+      "instance_id": 1732620349,
+      "release_id": 31019308,
+      "master_id": 43946,
+      "artist": "Sade",
+      "title": "Promise",
+      "year": 2024,
+      "labels": [
+        {
+          "name": "Epic",
+          "catalog_number": "19658784811"
+        },
+        {
+          "name": "Sony Music",
+          "catalog_number": "19658784811"
+        },
+        {
+          "name": "Epic",
+          "catalog_number": "EPC 86318"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "date_added": "2024-07-12T08:01:23-07:00",
+      "discogs_url": "https://www.discogs.com/release/31019308"
+    },
+    {
+      "instance_id": 2109123700,
+      "release_id": 35724184,
+      "master_id": 211483,
+      "artist": "Sarah Vaughan",
+      "title": "Crazy And Mixed Up",
+      "year": 2025,
+      "labels": [
+        {
+          "name": "Pablo Today",
+          "catalog_number": "2312-137"
+        },
+        {
+          "name": "Analogue Productions",
+          "catalog_number": "APJ 191"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Numbered",
+            "Reissue"
+          ]
+        }
+      ],
+      "date_added": "2026-02-01T04:24:34-08:00",
+      "discogs_url": "https://www.discogs.com/release/35724184"
+    },
+    {
+      "instance_id": 468046614,
+      "release_id": 13674297,
+      "master_id": 215518,
+      "artist": "Sarah Vaughan",
+      "title": "In The Land Of Hi-Fi",
+      "year": 2018,
+      "labels": [
+        {
+          "name": "Vinyl Passion",
+          "catalog_number": "VP 90043"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Mono"
+          ]
+        }
+      ],
+      "date_added": "2020-05-09T18:50:58-07:00",
+      "discogs_url": "https://www.discogs.com/release/13674297"
+    },
+    {
+      "instance_id": 337788573,
+      "release_id": 10907998,
+      "master_id": 229892,
+      "artist": "Sarah Vaughan",
+      "title": "Sarah Vaughan",
+      "year": 2017,
+      "labels": [
+        {
+          "name": "DOL",
+          "catalog_number": "DOL838HG"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "date_added": "2018-12-08T16:50:42-08:00",
+      "discogs_url": "https://www.discogs.com/release/10907998"
+    },
+    {
+      "instance_id": 2000798895,
+      "release_id": 6458121,
+      "master_id": 923968,
+      "artist": "Sinne Eeg",
+      "title": "Face The Music",
+      "year": 2014,
+      "labels": [
+        {
+          "name": "Stunt Records",
+          "catalog_number": "STULP 14041"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "date_added": "2025-04-18T11:18:23-07:00",
+      "discogs_url": "https://www.discogs.com/release/6458121"
+    },
+    {
+      "instance_id": 468061663,
+      "release_id": 14893144,
+      "master_id": 1762173,
+      "artist": "Sinne Eeg, Danish Radio Big Band",
+      "title": "We've Just Begun",
+      "year": 2020,
+      "labels": [
+        {
+          "name": "Stunt Records",
+          "catalog_number": "STULP 19131"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP"
+          ]
+        }
+      ],
+      "date_added": "2020-05-09T19:32:19-07:00",
+      "discogs_url": "https://www.discogs.com/release/14893144"
+    },
+    {
+      "instance_id": 468060162,
+      "release_id": 7344883,
+      "master_id": 185785,
+      "artist": "Sonny Clark",
+      "title": "Cool Struttin'",
+      "year": 2015,
+      "labels": [
+        {
+          "name": "DOL",
+          "catalog_number": "DOL834H"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "date_added": "2020-05-09T19:28:29-07:00",
+      "discogs_url": "https://www.discogs.com/release/7344883"
+    },
+    {
+      "instance_id": 646187017,
+      "release_id": 13936730,
+      "master_id": 241256,
+      "artist": "Sonny Clark Trio",
+      "title": "Sonny Clark Trio",
+      "year": 2019,
+      "labels": [
+        {
+          "name": "Vinyl Passion",
+          "catalog_number": "VP 90118"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Unofficial Release",
+            "Mono"
+          ]
+        }
+      ],
+      "date_added": "2021-03-19T09:25:55-07:00",
+      "discogs_url": "https://www.discogs.com/release/13936730"
+    },
+    {
+      "instance_id": 2067068552,
+      "release_id": 29200204,
+      "master_id": 174515,
+      "artist": "Sonny Rollins",
+      "title": "Newk's Time",
+      "year": 2023,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "5524262"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "5524262"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "00602455242624"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "00602455242624"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "ST-84001"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BST 84001"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "84001"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2025-10-04T10:32:48-07:00",
+      "discogs_url": "https://www.discogs.com/release/29200204"
+    },
+    {
+      "instance_id": 2000799771,
+      "release_id": 14039349,
+      "master_id": 174516,
+      "artist": "Sonny Rollins",
+      "title": "On Impulse!",
+      "year": 2019,
+      "labels": [
+        {
+          "name": "Impulse!",
+          "catalog_number": "000602577573835"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2025-04-18T11:19:10-07:00",
+      "discogs_url": "https://www.discogs.com/release/14039349"
+    },
+    {
+      "instance_id": 404262057,
+      "release_id": 11436524,
+      "master_id": 170468,
+      "artist": "Sonny Rollins",
+      "title": "The Bridge",
+      "year": 2017,
+      "labels": [
+        {
+          "name": "Dol",
+          "catalog_number": "DOL772HG"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "date_added": "2019-09-28T15:41:36-07:00",
+      "discogs_url": "https://www.discogs.com/release/11436524"
+    },
+    {
+      "instance_id": 606763414,
+      "release_id": 13551760,
+      "master_id": 123554,
+      "artist": "Stan Getz, Gerry Mulligan",
+      "title": "Getz Meets Mulligan In HI-FI",
+      "year": 2019,
+      "labels": [
+        {
+          "name": "Vinyl Passion",
+          "catalog_number": "VP 90083"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "date_added": "2021-02-12T09:52:53-08:00",
+      "discogs_url": "https://www.discogs.com/release/13551760"
+    },
+    {
+      "instance_id": 549036258,
+      "release_id": 15899256,
+      "master_id": 487356,
+      "artist": "Stanley Turrentine",
+      "title": "That's Where It's At",
+      "year": 2020,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "B0031592-01"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BST 84096"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "ST-84096"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "84096"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2020-12-23T07:38:22-08:00",
+      "discogs_url": "https://www.discogs.com/release/15899256"
+    },
+    {
+      "instance_id": 2057273125,
+      "release_id": 34237543,
+      "master_id": null,
+      "artist": "Sthlm Bossanova Quartet",
+      "title": "Deusa",
+      "year": 2025,
+      "labels": [
+        {
+          "name": "Figaro Music & Media Group AB",
+          "catalog_number": "BUBLP006"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Limited Edition",
+            "Numbered",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2025-09-02T08:07:03-07:00",
+      "discogs_url": "https://www.discogs.com/release/34237543"
+    },
+    {
+      "instance_id": 1844171982,
+      "release_id": 31268366,
+      "master_id": 371200,
+      "artist": "Thad Jones",
+      "title": "The Magnificent Thad Jones",
+      "year": 2024,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "5880782"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "5880782"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "00602458807820"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "00602458807820"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "1527"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BLP 1527"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Mono"
+          ]
+        }
+      ],
+      "date_added": "2024-11-22T06:53:20-08:00",
+      "discogs_url": "https://www.discogs.com/release/31268366"
+    },
+    {
+      "instance_id": 468050479,
+      "release_id": 3726617,
+      "master_id": 104372,
+      "artist": "The Bill Evans Trio",
+      "title": "Sunday At The Village Vanguard",
+      "year": 2012,
+      "labels": [
+        {
+          "name": "WaxTime",
+          "catalog_number": "771729"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo",
+            "Reissue",
+            "Remastered",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "date_added": "2020-05-09T19:01:56-07:00",
+      "discogs_url": "https://www.discogs.com/release/3726617"
+    },
+    {
+      "instance_id": 382030148,
+      "release_id": 10962313,
+      "master_id": 104369,
+      "artist": "The Bill Evans Trio, Scott LaFaro, Paul Motian",
+      "title": "Waltz For Debby",
+      "year": 2015,
+      "labels": [
+        {
+          "name": "DOL",
+          "catalog_number": "DOL862HG"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "date_added": "2019-06-15T13:19:52-07:00",
+      "discogs_url": "https://www.discogs.com/release/10962313"
+    },
+    {
+      "instance_id": 2084073350,
+      "release_id": 11227652,
+      "master_id": 110095,
+      "artist": "The Dave Brubeck Quartet",
+      "title": "Newport 1958",
+      "year": 2017,
+      "labels": [
+        {
+          "name": "Vinyl Passion",
+          "catalog_number": "VP 80098"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2025-11-27T07:51:24-08:00",
+      "discogs_url": "https://www.discogs.com/release/11227652"
+    },
+    {
+      "instance_id": 336196502,
+      "release_id": 10844247,
+      "master_id": 34081,
+      "artist": "The Dave Brubeck Quartet",
+      "title": "Time Out",
+      "year": 2017,
+      "labels": [
+        {
+          "name": "DOL",
+          "catalog_number": "DOL705HG"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "date_added": "2018-11-30T17:20:26-08:00",
+      "discogs_url": "https://www.discogs.com/release/10844247"
+    },
+    {
+      "instance_id": 550579215,
+      "release_id": 14331217,
+      "master_id": 155011,
+      "artist": "The Horace Silver Quintet",
+      "title": "Doin' The Thing - At The Village Gate",
+      "year": 2019,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "00602508073830"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "00602508073830"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "84076"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "ST-84076"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BST 84076"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2020-12-25T04:30:11-08:00",
+      "discogs_url": "https://www.discogs.com/release/14331217"
+    },
+    {
+      "instance_id": 1326853535,
+      "release_id": 16953990,
+      "master_id": 155008,
+      "artist": "The Horace Silver Quintet",
+      "title": "Song For My Father (Cantiga Para Meu Pai)",
+      "year": 2021,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "0744043"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "0744043"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "84185"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "ST-84185"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BST 84185"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2023-04-15T07:34:10-07:00",
+      "discogs_url": "https://www.discogs.com/release/16953990"
+    },
+    {
+      "instance_id": 2084073490,
+      "release_id": 4512668,
+      "master_id": 37346,
+      "artist": "The John Coltrane Quartet",
+      "title": "Ballads",
+      "year": 2013,
+      "labels": [
+        {
+          "name": "WaxTime",
+          "catalog_number": "771828"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Remastered",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2025-11-27T07:51:51-08:00",
+      "discogs_url": "https://www.discogs.com/release/4512668"
+    },
+    {
+      "instance_id": 336194631,
+      "release_id": 10962201,
+      "master_id": 99328,
+      "artist": "The Oscar Peterson Trio",
+      "title": "Night Train",
+      "year": 2017,
+      "labels": [
+        {
+          "name": "DOL",
+          "catalog_number": "DOL842HG"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Deluxe Edition",
+            "Reissue"
+          ]
+        }
+      ],
+      "date_added": "2018-11-30T17:10:25-08:00",
+      "discogs_url": "https://www.discogs.com/release/10962201"
+    },
+    {
+      "instance_id": 468050792,
+      "release_id": 4366953,
+      "master_id": 147910,
+      "artist": "The Thelonious Monk Quartet",
+      "title": "Monk's Dream",
+      "year": 2013,
+      "labels": [
+        {
+          "name": "WaxTime",
+          "catalog_number": "771838"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo",
+            "Reissue",
+            "Remastered",
+            "Limited Edition"
+          ]
+        }
+      ],
+      "date_added": "2020-05-09T19:02:53-07:00",
+      "discogs_url": "https://www.discogs.com/release/4366953"
+    },
+    {
+      "instance_id": 336399295,
+      "release_id": 11220963,
+      "master_id": 120705,
+      "artist": "Thelonious Monk",
+      "title": "Brilliant Corners",
+      "year": 2017,
+      "labels": [
+        {
+          "name": "DOL",
+          "catalog_number": "DOL739HG"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Mono"
+          ]
+        }
+      ],
+      "date_added": "2018-12-01T16:45:11-08:00",
+      "discogs_url": "https://www.discogs.com/release/11220963"
+    },
+    {
+      "instance_id": 2046759335,
+      "release_id": 30538081,
+      "master_id": 260384,
+      "artist": "Thelonious Monk",
+      "title": "It's Monk's Time",
+      "year": 2024,
+      "labels": [
+        {
+          "name": "Music On Vinyl",
+          "catalog_number": "MOVLP3393"
+        },
+        {
+          "name": "Columbia",
+          "catalog_number": "CS 8984"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Numbered",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2025-08-01T07:57:20-07:00",
+      "discogs_url": "https://www.discogs.com/release/30538081"
+    },
+    {
+      "instance_id": 2046759431,
+      "release_id": 29431924,
+      "master_id": 120735,
+      "artist": "Thelonious Monk",
+      "title": "Monk.",
+      "year": 2024,
+      "labels": [
+        {
+          "name": "Music On Vinyl",
+          "catalog_number": "MOVLP3427"
+        },
+        {
+          "name": "Columbia",
+          "catalog_number": "MOVLP3427"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Numbered",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2025-08-01T07:57:36-07:00",
+      "discogs_url": "https://www.discogs.com/release/29431924"
+    },
+    {
+      "instance_id": 1844171631,
+      "release_id": 5554961,
+      "master_id": 120740,
+      "artist": "Thelonious Monk",
+      "title": "Solo Monk",
+      "year": 2014,
+      "labels": [
+        {
+          "name": "Music On Vinyl",
+          "catalog_number": "MOVLP843"
+        },
+        {
+          "name": "Columbia",
+          "catalog_number": "CS 9149"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Stereo",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "date_added": "2024-11-22T06:52:50-08:00",
+      "discogs_url": "https://www.discogs.com/release/5554961"
+    },
+    {
+      "instance_id": 1844171868,
+      "release_id": 4350229,
+      "master_id": 120742,
+      "artist": "Thelonious Monk",
+      "title": "Straight, No Chaser",
+      "year": 2013,
+      "labels": [
+        {
+          "name": "Music On Vinyl",
+          "catalog_number": "MOVLP288"
+        },
+        {
+          "name": "Columbia",
+          "catalog_number": "CS 9451"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2024-11-22T06:53:09-08:00",
+      "discogs_url": "https://www.discogs.com/release/4350229"
+    },
+    {
+      "instance_id": 1844171454,
+      "release_id": 4272208,
+      "master_id": 120750,
+      "artist": "Thelonious Monk",
+      "title": "Underground",
+      "year": 2013,
+      "labels": [
+        {
+          "name": "Columbia",
+          "catalog_number": "MOVLP477"
+        },
+        {
+          "name": "Music On Vinyl",
+          "catalog_number": "MOVLP477"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "date_added": "2024-11-22T06:52:37-08:00",
+      "discogs_url": "https://www.discogs.com/release/4272208"
+    },
+    {
+      "instance_id": 606763756,
+      "release_id": 13958586,
+      "master_id": 75869,
+      "artist": "Thelonious Monk, John Coltrane",
+      "title": "Thelonious Monk With John Coltrane",
+      "year": 2019,
+      "labels": [
+        {
+          "name": "Vinyl Passion",
+          "catalog_number": "VP 90103"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Mono"
+          ]
+        }
+      ],
+      "date_added": "2021-02-12T09:53:14-08:00",
+      "discogs_url": "https://www.discogs.com/release/13958586"
+    },
+    {
+      "instance_id": 2168548553,
+      "release_id": 14313583,
+      "master_id": 293594,
+      "artist": "Tina Brooks",
+      "title": "Minor Move",
+      "year": 2019,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "B0030487-01"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2026-07-29T05:01:47-07:00",
+      "discogs_url": "https://www.discogs.com/release/14313583"
+    },
+    {
+      "instance_id": 1732619950,
+      "release_id": 11982762,
+      "master_id": 13974,
+      "artist": "Tom Waits",
+      "title": "Nighthawks At The Diner",
+      "year": 2018,
+      "labels": [
+        {
+          "name": "Anti-",
+          "catalog_number": "7567-1"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Record Store Day",
+            "Limited Edition",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "date_added": "2024-07-12T08:00:52-07:00",
+      "discogs_url": "https://www.discogs.com/release/11982762"
+    },
+    {
+      "instance_id": 2084773944,
+      "release_id": 31430060,
+      "master_id": 140424,
+      "artist": "Wayne Shorter",
+      "title": "Speak No Evil",
+      "year": 2024,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "5879067"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "84194"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BST 84194"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2025-11-29T07:35:07-08:00",
+      "discogs_url": "https://www.discogs.com/release/31430060"
+    },
+    {
+      "instance_id": 468071387,
+      "release_id": 13302289,
+      "master_id": 297534,
+      "artist": "Wayne Shorter",
+      "title": "Wayning Moments",
+      "year": 2019,
+      "labels": [
+        {
+          "name": "Jazz Images",
+          "catalog_number": "37134"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2020-05-09T19:58:44-07:00",
+      "discogs_url": "https://www.discogs.com/release/13302289"
+    },
+    {
+      "instance_id": 468054817,
+      "release_id": 8450777,
+      "master_id": 82207,
+      "artist": "Wes Montgomery",
+      "title": "The Incredible Jazz Guitar Of Wes Montgomery",
+      "year": 2016,
+      "labels": [
+        {
+          "name": "Vinyl Lovers (3)",
+          "catalog_number": "6785430"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2020-05-09T19:13:38-07:00",
+      "discogs_url": "https://www.discogs.com/release/8450777"
+    },
+    {
+      "instance_id": 426934203,
+      "release_id": 13587370,
+      "master_id": 516975,
+      "artist": "Wynton Kelly",
+      "title": "Kelly At Midnite",
+      "year": 2019,
+      "labels": [
+        {
+          "name": "Jazz Wax Records",
+          "catalog_number": "JWR 4592"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Remastered",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2020-01-04T17:10:48-08:00",
+      "discogs_url": "https://www.discogs.com/release/13587370"
+    },
+    {
+      "instance_id": 854344999,
+      "release_id": 881029,
+      "master_id": 84302,
+      "artist": "Yusef Lateef",
+      "title": "Eastern Sounds",
+      "year": null,
+      "labels": [
+        {
+          "name": "Original Jazz Classics",
+          "catalog_number": "OJC-612"
+        },
+        {
+          "name": "Prestige",
+          "catalog_number": "PR 7319"
+        },
+        {
+          "name": "Prestige",
+          "catalog_number": "P-7319"
+        },
+        {
+          "name": "Prestige",
+          "catalog_number": "PRST-7319"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2021-11-11T10:56:15-08:00",
+      "discogs_url": "https://www.discogs.com/release/881029"
+    }
+  ]
+}
