@@ -1,0 +1,121 @@
+name: Update Discogs collection
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Fetch Discogs collection
+        env:
+          DISCOGS_TOKEN: ${{ secrets.DISCOGS_TOKEN }}
+        run: |
+          node <<'EOF'
+          const fs = require("fs");
+
+          const username = "Eiliv";
+          const token = process.env.DISCOGS_TOKEN;
+          const perPage = 100;
+
+          if (!token) {
+            throw new Error("DISCOGS_TOKEN mangler");
+          }
+
+          const headers = {
+            "User-Agent": "EilivVinylCollection/1.0",
+            "Authorization": `Discogs token=${token}`,
+            "Accept": "application/json"
+          };
+
+          async function getPage(page) {
+            const url =
+              `https://api.discogs.com/users/${encodeURIComponent(username)}` +
+              `/collection/folders/0/releases?page=${page}&per_page=${perPage}`;
+
+            const response = await fetch(url, { headers });
+
+            if (!response.ok) {
+              const text = await response.text();
+              throw new Error(`Discogs-feil ${response.status}: ${text}`);
+            }
+
+            return response.json();
+          }
+
+          async function main() {
+            const first = await getPage(1);
+            const pages = first.pagination?.pages ?? 1;
+            let releases = first.releases ?? [];
+
+            for (let page = 2; page <= pages; page++) {
+              await new Promise(resolve => setTimeout(resolve, 1000));
+              const data = await getPage(page);
+              releases = releases.concat(data.releases ?? []);
+            }
+
+            const collection = releases.map(item => {
+              const info = item.basic_information ?? {};
+
+              return {
+                instance_id: item.instance_id ?? null,
+                release_id: info.id ?? null,
+                master_id: info.master_id || null,
+                artist: (info.artists ?? []).map(a => a.name).join(", "),
+                title: info.title ?? "",
+                year: info.year || null,
+                labels: (info.labels ?? []).map(label => ({
+                  name: label.name,
+                  catalog_number: label.catno
+                })),
+                formats: (info.formats ?? []).map(format => ({
+                  name: format.name,
+                  quantity: format.qty,
+                  descriptions: format.descriptions ?? []
+                })),
+                date_added: item.date_added ?? null,
+                discogs_url: info.id
+                  ? `https://www.discogs.com/release/${info.id}`
+                  : null
+              };
+            });
+
+            collection.sort((a, b) =>
+              a.artist.localeCompare(b.artist) ||
+              a.title.localeCompare(b.title)
+            );
+
+            fs.writeFileSync(
+              "collection.json",
+              JSON.stringify({
+                username,
+                updated_at: new Date().toISOString(),
+                count: collection.length,
+                collection
+              }, null, 2)
+            );
+          }
+
+          main().catch(error => {
+            console.error(error);
+            process.exit(1);
+          });
+          EOF
+
+      - name: Commit updated collection
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add collection.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Update Discogs collection"
+          git push
