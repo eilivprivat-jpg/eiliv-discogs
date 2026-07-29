@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="no">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Eilivs platesamling</title>
+</head>
+<body>
+  <h1>Eilivs platesamling</h1>
+  <pre id="collection">Laster samlingen …</pre>
+
+  <script>
+    fetch("/api/collection")
+      .then(response => {
+        if (!response.ok) {
+          throw new Error(`HTTP-feil ${response.status}`);
+        }
+        return response.json();
+      })
+      .then(data => {
+        document.getElementById("collection").textContent =
+          JSON.stringify(data, null, 2);
+      })
+      .catch(error => {
+        document.getElementById("collection").textContent =
+          `Kunne ikke laste samlingen: ${error.message}`;
+      });
+  </script>
+</body>
+</html>
