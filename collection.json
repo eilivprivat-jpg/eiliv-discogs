@@ -1,8 +1,83 @@
 {
   "username": "Eiliv",
-  "updated_at": "2026-07-30T07:43:03.740Z",
-  "count": 172,
+  "updated_at": "2026-07-30T15:34:54.116Z",
+  "count": 180,
   "collection": [
+    {
+      "instance_id": 2168848937,
+      "release_id": 18373444,
+      "master_id": 289638,
+      "artist": "Abbey Lincoln",
+      "title": "Abbey Is Blue",
+      "year": 2021,
+      "labels": [
+        {
+          "name": "Riverside Records",
+          "catalog_number": "CR 00369"
+        },
+        {
+          "name": "Craft Recordings",
+          "catalog_number": "CR 00369"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2026-07-30T04:56:10-07:00",
+      "discogs_url": "https://www.discogs.com/release/18373444"
+    },
+    {
+      "instance_id": 2168849174,
+      "release_id": 37105029,
+      "master_id": 270045,
+      "artist": "Abbey Lincoln, The Riverside Jazz Stars",
+      "title": "That's Him!",
+      "year": 2026,
+      "labels": [
+        {
+          "name": "Craft Recordings",
+          "catalog_number": "CR01002"
+        },
+        {
+          "name": "Craft Recordings",
+          "catalog_number": "CR 01002"
+        },
+        {
+          "name": "Riverside Records",
+          "catalog_number": "CR01002"
+        },
+        {
+          "name": "Riverside Records",
+          "catalog_number": "CR 01002"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Record Store Day",
+            "Limited Edition",
+            "Reissue",
+            "Mono"
+          ]
+        }
+      ],
+      "date_added": "2026-07-30T04:56:34-07:00",
+      "discogs_url": "https://www.discogs.com/release/37105029"
+    },
     {
       "instance_id": 1400243592,
       "release_id": 26740556,
@@ -91,6 +166,35 @@
       ],
       "date_added": "2023-07-08T04:16:13-07:00",
       "discogs_url": "https://www.discogs.com/release/25191424"
+    },
+    {
+      "instance_id": 2168848582,
+      "release_id": 30677077,
+      "master_id": 271529,
+      "artist": "Anita O'Day",
+      "title": "Anita Sings The Most",
+      "year": 2024,
+      "labels": [
+        {
+          "name": "Supper Club",
+          "catalog_number": "042"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Numbered",
+            "Reissue"
+          ]
+        }
+      ],
+      "date_added": "2026-07-30T04:55:05-07:00",
+      "discogs_url": "https://www.discogs.com/release/30677077"
     },
     {
       "instance_id": 2000784924,
@@ -1113,6 +1217,38 @@
       "discogs_url": "https://www.discogs.com/release/12291491"
     },
     {
+      "instance_id": 2168847751,
+      "release_id": 25354342,
+      "master_id": 269012,
+      "artist": "Chet Baker, Art Pepper, Phil Urso",
+      "title": "Picture Of Heath",
+      "year": 2022,
+      "labels": [
+        {
+          "name": "Pacific Jazz",
+          "catalog_number": "B0033674-01"
+        },
+        {
+          "name": "Pacific Jazz",
+          "catalog_number": "PJ-18"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Mono"
+          ]
+        }
+      ],
+      "date_added": "2026-07-30T04:52:59-07:00",
+      "discogs_url": "https://www.discogs.com/release/25354342"
+    },
+    {
       "instance_id": 2067069019,
       "release_id": 3952928,
       "master_id": 60238,
@@ -1629,6 +1765,46 @@
       ],
       "date_added": "2020-05-09T19:08:25-07:00",
       "discogs_url": "https://www.discogs.com/release/2682247"
+    },
+    {
+      "instance_id": 2168848192,
+      "release_id": 35513008,
+      "master_id": 320425,
+      "artist": "Duke Jordan",
+      "title": "Flight To Jordan",
+      "year": 2025,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "602455845955"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "ST-84046"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BST 84046"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "84046"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2026-07-30T04:54:14-07:00",
+      "discogs_url": "https://www.discogs.com/release/35513008"
     },
     {
       "instance_id": 1400242170,
@@ -2426,6 +2602,38 @@
       ],
       "date_added": "2020-12-25T04:29:47-08:00",
       "discogs_url": "https://www.discogs.com/release/6003577"
+    },
+    {
+      "instance_id": 2168848333,
+      "release_id": 15234417,
+      "master_id": 210232,
+      "artist": "Helen Merrill",
+      "title": "Helen Merrill",
+      "year": 2020,
+      "labels": [
+        {
+          "name": "Analogue Productions",
+          "catalog_number": "APJ 127"
+        },
+        {
+          "name": "EmArcy",
+          "catalog_number": "MG-36006"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Reissue",
+            "Remastered",
+            "Mono"
+          ]
+        }
+      ],
+      "date_added": "2026-07-30T04:54:39-07:00",
+      "discogs_url": "https://www.discogs.com/release/15234417"
     },
     {
       "instance_id": 468050541,
@@ -4691,6 +4899,46 @@
       "discogs_url": "https://www.discogs.com/release/10907998"
     },
     {
+      "instance_id": 2168848690,
+      "release_id": 35512948,
+      "master_id": 313791,
+      "artist": "Sheila Jordan",
+      "title": "Portrait Of Sheila",
+      "year": 2025,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "602455845931"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "ST-89002"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BST 89002"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "89002"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2026-07-30T04:55:30-07:00",
+      "discogs_url": "https://www.discogs.com/release/35512948"
+    },
+    {
       "instance_id": 2000798895,
       "release_id": 6458121,
       "master_id": 923968,
@@ -5583,6 +5831,46 @@
       ],
       "date_added": "2026-07-29T05:01:47-07:00",
       "discogs_url": "https://www.discogs.com/release/14313583"
+    },
+    {
+      "instance_id": 2168847977,
+      "release_id": 16837191,
+      "master_id": 939104,
+      "artist": "Tina Brooks",
+      "title": "The Waiting Game",
+      "year": 2021,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "B0032109-01"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BST 40536"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "ST-40536"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "40536"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2026-07-30T04:53:38-07:00",
+      "discogs_url": "https://www.discogs.com/release/16837191"
     },
     {
       "instance_id": 1732619950,
