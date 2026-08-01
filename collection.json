@@ -1,7 +1,7 @@
 {
   "username": "Eiliv",
-  "updated_at": "2026-08-01T11:44:12.378Z",
-  "count": 180,
+  "updated_at": "2026-08-01T15:44:19.113Z",
+  "count": 179,
   "collection": [
     {
       "instance_id": 2168848937,
@@ -1982,34 +1982,6 @@
       ],
       "date_added": "2023-07-08T04:15:51-07:00",
       "discogs_url": "https://www.discogs.com/release/26410094"
-    },
-    {
-      "instance_id": 425452382,
-      "release_id": 6452257,
-      "master_id": 60424,
-      "artist": "Eva Cassidy",
-      "title": "Songbird",
-      "year": 2014,
-      "labels": [
-        {
-          "name": "Blix Street Records",
-          "catalog_number": "G8-10145"
-        }
-      ],
-      "formats": [
-        {
-          "name": "Vinyl",
-          "quantity": "1",
-          "descriptions": [
-            "LP",
-            "Compilation",
-            "Reissue",
-            "Remastered"
-          ]
-        }
-      ],
-      "date_added": "2019-12-30T10:04:25-08:00",
-      "discogs_url": "https://www.discogs.com/release/6452257"
     },
     {
       "instance_id": 1400242371,
