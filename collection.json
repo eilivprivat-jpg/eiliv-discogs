@@ -1,7 +1,7 @@
 {
   "username": "Eiliv",
-  "updated_at": "2026-08-14T16:08:51.084Z",
-  "count": 179,
+  "updated_at": "2026-08-14T19:34:37.603Z",
+  "count": 192,
   "collection": [
     {
       "instance_id": 2168848937,
@@ -343,6 +343,38 @@
       ],
       "date_added": "2020-06-05T05:45:28-07:00",
       "discogs_url": "https://www.discogs.com/release/4345204"
+    },
+    {
+      "instance_id": 2173766818,
+      "release_id": 28863433,
+      "master_id": 531172,
+      "artist": "Art Farmer",
+      "title": "Portrait Of Art Farmer",
+      "year": 2023,
+      "labels": [
+        {
+          "name": "Craft Recordings",
+          "catalog_number": "CR00605"
+        },
+        {
+          "name": "Stereo Records (4)",
+          "catalog_number": "CR00605"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2026-08-14T10:21:28-07:00",
+      "discogs_url": "https://www.discogs.com/release/28863433"
     },
     {
       "instance_id": 404314390,
@@ -893,6 +925,58 @@
       "discogs_url": "https://www.discogs.com/release/30464432"
     },
     {
+      "instance_id": 2173768083,
+      "release_id": 25905418,
+      "master_id": 2956306,
+      "artist": "Catherine Russell",
+      "title": "Send For Me",
+      "year": 2022,
+      "labels": [
+        {
+          "name": "Dot Time Records",
+          "catalog_number": "DT8569"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "date_added": "2026-08-14T10:25:35-07:00",
+      "discogs_url": "https://www.discogs.com/release/25905418"
+    },
+    {
+      "instance_id": 2173768280,
+      "release_id": 7433196,
+      "master_id": 901817,
+      "artist": "Cécile McLorin Salvant",
+      "title": "For One To Love",
+      "year": 2015,
+      "labels": [
+        {
+          "name": "Mack Avenue Records",
+          "catalog_number": "MAC1095LP"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "2",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "date_added": "2026-08-14T10:26:15-07:00",
+      "discogs_url": "https://www.discogs.com/release/7433196"
+    },
+    {
       "instance_id": 348909557,
       "release_id": 10962429,
       "master_id": 65014,
@@ -1433,6 +1517,83 @@
       ],
       "date_added": "2021-03-19T09:27:03-07:00",
       "discogs_url": "https://www.discogs.com/release/13415124"
+    },
+    {
+      "instance_id": 2173767122,
+      "release_id": 29149357,
+      "master_id": 288543,
+      "artist": "Coleman Hawkins, Ben Webster",
+      "title": "Coleman Hawkins Encounters Ben Webster",
+      "year": 2023,
+      "labels": [
+        {
+          "name": "Verve Records",
+          "catalog_number": "B0037377-01"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "B0037377-01"
+        },
+        {
+          "name": "Verve Records",
+          "catalog_number": "MG VS-6066"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Repress",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2026-08-14T10:22:34-07:00",
+      "discogs_url": "https://www.discogs.com/release/29149357"
+    },
+    {
+      "instance_id": 2173767342,
+      "release_id": 37104702,
+      "master_id": 168321,
+      "artist": "Dexter Gordon",
+      "title": "Dexter Calling . . .",
+      "year": 2026,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "602458740288"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "84083"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "ST-84083"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BST 84083"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2026-08-14T10:23:11-07:00",
+      "discogs_url": "https://www.discogs.com/release/37104702"
     },
     {
       "instance_id": 1400243985,
@@ -1984,6 +2145,79 @@
       "discogs_url": "https://www.discogs.com/release/26410094"
     },
     {
+      "instance_id": 2173768672,
+      "release_id": 35657236,
+      "master_id": 96471,
+      "artist": "Frank Sinatra",
+      "title": "In The Wee Small Hours",
+      "year": 2025,
+      "labels": [
+        {
+          "name": "Capitol Records",
+          "catalog_number": "602478450242"
+        },
+        {
+          "name": "Capitol Records",
+          "catalog_number": "W581"
+        },
+        {
+          "name": "Capitol Records",
+          "catalog_number": "W-581"
+        },
+        {
+          "name": "Signature Sinatra",
+          "catalog_number": "602478450242"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Mono"
+          ]
+        }
+      ],
+      "date_added": "2026-08-14T10:27:36-07:00",
+      "discogs_url": "https://www.discogs.com/release/35657236"
+    },
+    {
+      "instance_id": 2173768547,
+      "release_id": 8478021,
+      "master_id": 144104,
+      "artist": "Frank Sinatra",
+      "title": "Sinatra At The Sands",
+      "year": 2016,
+      "labels": [
+        {
+          "name": "UMe",
+          "catalog_number": "4770458"
+        },
+        {
+          "name": "Signature Sinatra",
+          "catalog_number": "4770458"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2026-08-14T10:27:05-07:00",
+      "discogs_url": "https://www.discogs.com/release/8478021"
+    },
+    {
       "instance_id": 1400242371,
       "release_id": 7091281,
       "master_id": 828339,
@@ -2445,6 +2679,46 @@
       "discogs_url": "https://www.discogs.com/release/7001748"
     },
     {
+      "instance_id": 2173767455,
+      "release_id": 27607917,
+      "master_id": 239711,
+      "artist": "Hank Mobley",
+      "title": "A Caddy For Daddy",
+      "year": 2023,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "B0034714-01"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "ST-84230"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BST 84230"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "84230"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2026-08-14T10:23:32-07:00",
+      "discogs_url": "https://www.discogs.com/release/27607917"
+    },
+    {
       "instance_id": 419161309,
       "release_id": 5739041,
       "master_id": 62796,
@@ -2642,6 +2916,58 @@
       ],
       "date_added": "2020-05-09T19:02:06-07:00",
       "discogs_url": "https://www.discogs.com/release/2542733"
+    },
+    {
+      "instance_id": 2173767012,
+      "release_id": 26131445,
+      "master_id": 352741,
+      "artist": "Horace Parlan Quintet",
+      "title": "Speakin' My Piece",
+      "year": 2023,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "4859550"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "4859550"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "00602448595508"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "00602448595508"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "ST-84043"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BST 84043"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "84043"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2026-08-14T10:22:09-07:00",
+      "discogs_url": "https://www.discogs.com/release/26131445"
     },
     {
       "instance_id": 508239591,
@@ -3506,6 +3832,31 @@
       "discogs_url": "https://www.discogs.com/release/7383499"
     },
     {
+      "instance_id": 2173767796,
+      "release_id": 34732320,
+      "master_id": 3960890,
+      "artist": "Kandace Springs, Orquestra Clássica de Espinho",
+      "title": "Lady In Satin",
+      "year": 2025,
+      "labels": [
+        {
+          "name": "SRP Records",
+          "catalog_number": "195269356217"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP"
+          ]
+        }
+      ],
+      "date_added": "2026-08-14T10:24:39-07:00",
+      "discogs_url": "https://www.discogs.com/release/34732320"
+    },
+    {
       "instance_id": 1766285836,
       "release_id": 8935334,
       "master_id": 358514,
@@ -3864,6 +4215,38 @@
       ],
       "date_added": "2020-05-16T14:45:28-07:00",
       "discogs_url": "https://www.discogs.com/release/6394503"
+    },
+    {
+      "instance_id": 2173767673,
+      "release_id": 27428673,
+      "master_id": 290300,
+      "artist": "Leroy Vinnegar Sextet",
+      "title": "Leroy Walks!",
+      "year": 2023,
+      "labels": [
+        {
+          "name": "Stereo Records (4)",
+          "catalog_number": "CR00594"
+        },
+        {
+          "name": "Craft Recordings",
+          "catalog_number": "CR00594"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2026-08-14T10:24:15-07:00",
+      "discogs_url": "https://www.discogs.com/release/27428673"
     },
     {
       "instance_id": 1326853346,
@@ -4783,6 +5166,32 @@
       "discogs_url": "https://www.discogs.com/release/31019308"
     },
     {
+      "instance_id": 2173767880,
+      "release_id": 25206094,
+      "master_id": 2803274,
+      "artist": "Samara Joy",
+      "title": "Linger Awhile",
+      "year": 2022,
+      "labels": [
+        {
+          "name": "Verve Records",
+          "catalog_number": "B0036472-01"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "date_added": "2026-08-14T10:24:55-07:00",
+      "discogs_url": "https://www.discogs.com/release/25206094"
+    },
+    {
       "instance_id": 2109123700,
       "release_id": 35724184,
       "master_id": 211483,
@@ -5323,6 +5732,38 @@
       ],
       "date_added": "2019-06-15T13:19:52-07:00",
       "discogs_url": "https://www.discogs.com/release/10962313"
+    },
+    {
+      "instance_id": 2173766696,
+      "release_id": 28556494,
+      "master_id": 210695,
+      "artist": "The Curtis Counce Group",
+      "title": "You Get More Bounce With Curtis Counce!",
+      "year": 2023,
+      "labels": [
+        {
+          "name": "Craft Recordings",
+          "catalog_number": "CR00389"
+        },
+        {
+          "name": "Contemporary Records",
+          "catalog_number": "CR00389"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2026-08-14T10:21:05-07:00",
+      "discogs_url": "https://www.discogs.com/release/28556494"
     },
     {
       "instance_id": 2084073350,
