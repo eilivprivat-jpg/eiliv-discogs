@@ -1,7 +1,7 @@
 {
   "username": "Eiliv",
-  "updated_at": "2026-08-17T15:58:40.413Z",
-  "count": 192,
+  "updated_at": "2026-08-17T17:13:33.146Z",
+  "count": 198,
   "collection": [
     {
       "instance_id": 2168848937,
@@ -35,6 +35,36 @@
       ],
       "date_added": "2026-07-30T04:56:10-07:00",
       "discogs_url": "https://www.discogs.com/release/18373444"
+    },
+    {
+      "instance_id": 2174846716,
+      "release_id": 19472929,
+      "master_id": 398847,
+      "artist": "Abbey Lincoln",
+      "title": "It's Magic",
+      "year": 2021,
+      "labels": [
+        {
+          "name": "Riverside Records",
+          "catalog_number": "CR00412"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Club Edition",
+            "Reissue",
+            "Remastered",
+            "Mono"
+          ]
+        }
+      ],
+      "date_added": "2026-08-17T09:58:01-07:00",
+      "discogs_url": "https://www.discogs.com/release/19472929"
     },
     {
       "instance_id": 2168849174,
@@ -475,6 +505,36 @@
       ],
       "date_added": "2024-08-23T09:07:12-07:00",
       "discogs_url": "https://www.discogs.com/release/29895175"
+    },
+    {
+      "instance_id": 2174846884,
+      "release_id": 21710989,
+      "master_id": 1175767,
+      "artist": "Barbara Lea",
+      "title": "Lea In Love",
+      "year": 2022,
+      "labels": [
+        {
+          "name": "Prestige",
+          "catalog_number": "CR00472"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Club Edition",
+            "Reissue",
+            "Remastered",
+            "Mono"
+          ]
+        }
+      ],
+      "date_added": "2026-08-17T09:58:32-07:00",
+      "discogs_url": "https://www.discogs.com/release/21710989"
     },
     {
       "instance_id": 2000787039,
@@ -1834,6 +1894,42 @@
       "discogs_url": "https://www.discogs.com/release/2989978"
     },
     {
+      "instance_id": 2174845644,
+      "release_id": 25940794,
+      "master_id": 437177,
+      "artist": "Donald Byrd",
+      "title": "At The Half Note Cafe Volume 1",
+      "year": 2023,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "B0033842-01"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BST 84060"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "4060"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2026-08-17T09:54:52-07:00",
+      "discogs_url": "https://www.discogs.com/release/25940794"
+    },
+    {
       "instance_id": 2030028681,
       "release_id": 16836906,
       "master_id": 38995,
@@ -1872,6 +1968,38 @@
       ],
       "date_added": "2025-06-06T08:34:47-07:00",
       "discogs_url": "https://www.discogs.com/release/16836906"
+    },
+    {
+      "instance_id": 2174845789,
+      "release_id": 27266637,
+      "master_id": 38981,
+      "artist": "Donald Byrd",
+      "title": "Slow Drag",
+      "year": 2023,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "B0034364-01"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BST 84292"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2026-08-17T09:55:14-07:00",
+      "discogs_url": "https://www.discogs.com/release/27266637"
     },
     {
       "instance_id": 337788481,
@@ -1997,6 +2125,47 @@
       ],
       "date_added": "2023-07-08T04:13:55-07:00",
       "discogs_url": "https://www.discogs.com/release/2264128"
+    },
+    {
+      "instance_id": 2174845540,
+      "release_id": 30286007,
+      "master_id": 324954,
+      "artist": "Ella Fitzgerald",
+      "title": "Clap Hands, Here Comes Charlie!",
+      "year": 2024,
+      "labels": [
+        {
+          "name": "Verve Records",
+          "catalog_number": "602458986785"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "602458986785"
+        },
+        {
+          "name": "Verve Records",
+          "catalog_number": "V6-4053"
+        },
+        {
+          "name": "Verve Records",
+          "catalog_number": "V/V6-4053"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Repress",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2026-08-17T09:54:34-07:00",
+      "discogs_url": "https://www.discogs.com/release/30286007"
     },
     {
       "instance_id": 404274318,
@@ -2505,6 +2674,41 @@
       ],
       "date_added": "2019-12-14T15:52:51-08:00",
       "discogs_url": "https://www.discogs.com/release/14175153"
+    },
+    {
+      "instance_id": 2174847037,
+      "release_id": 28984867,
+      "master_id": 267215,
+      "artist": "Gil Evans",
+      "title": "Gil Evans & Ten",
+      "year": 2023,
+      "labels": [
+        {
+          "name": "Prestige",
+          "catalog_number": "CR00674"
+        },
+        {
+          "name": "Craft Recordings",
+          "catalog_number": "CR00674"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Record Store Day",
+            "Limited Edition",
+            "Reissue",
+            "Remastered",
+            "Mono"
+          ]
+        }
+      ],
+      "date_added": "2026-08-17T09:59:01-07:00",
+      "discogs_url": "https://www.discogs.com/release/28984867"
     },
     {
       "instance_id": 2057592610,
