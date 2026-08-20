@@ -1,7 +1,7 @@
 {
   "username": "Eiliv",
-  "updated_at": "2026-08-20T14:20:22.981Z",
-  "count": 198,
+  "updated_at": "2026-08-20T17:00:58.471Z",
+  "count": 204,
   "collection": [
     {
       "instance_id": 2168848937,
@@ -1181,6 +1181,46 @@
       ],
       "date_added": "2020-06-05T05:45:51-07:00",
       "discogs_url": "https://www.discogs.com/release/14163856"
+    },
+    {
+      "instance_id": 2175804635,
+      "release_id": 32135451,
+      "master_id": 284242,
+      "artist": "Chet Baker",
+      "title": "Baker's Holiday",
+      "year": 2024,
+      "labels": [
+        {
+          "name": "Verve Records",
+          "catalog_number": "602465627329"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "602465627329"
+        },
+        {
+          "name": "Limelight",
+          "catalog_number": "LS 86019"
+        },
+        {
+          "name": "Limelight",
+          "catalog_number": "LS-86019"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2026-08-20T09:42:00-07:00",
+      "discogs_url": "https://www.discogs.com/release/32135451"
     },
     {
       "instance_id": 2067816937,
@@ -3876,6 +3916,33 @@
       "discogs_url": "https://www.discogs.com/release/10992046"
     },
     {
+      "instance_id": 2175805058,
+      "release_id": 5516887,
+      "master_id": 27768,
+      "artist": "Johnny Cash",
+      "title": "American IV: The Man Comes Around",
+      "year": 2014,
+      "labels": [
+        {
+          "name": "American Recordings",
+          "catalog_number": "0600753463673"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "date_added": "2026-08-20T09:43:20-07:00",
+      "discogs_url": "https://www.discogs.com/release/5516887"
+    },
+    {
       "instance_id": 1400243709,
       "release_id": 13744596,
       "master_id": 343406,
@@ -3950,6 +4017,43 @@
       ],
       "date_added": "2025-09-03T08:33:43-07:00",
       "discogs_url": "https://www.discogs.com/release/32261442"
+    },
+    {
+      "instance_id": 2175804531,
+      "release_id": 31091963,
+      "master_id": 558890,
+      "artist": "Johnny Hodges And His Orchestra",
+      "title": "Blues A-Plenty",
+      "year": 2024,
+      "labels": [
+        {
+          "name": "Verve Records",
+          "catalog_number": "602465124569"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "602465124569"
+        },
+        {
+          "name": "Verve Records",
+          "catalog_number": "MG VS-68358"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Repress",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2026-08-20T09:41:39-07:00",
+      "discogs_url": "https://www.discogs.com/release/31091963"
     },
     {
       "instance_id": 646188448,
@@ -4534,6 +4638,32 @@
       "discogs_url": "https://www.discogs.com/release/34028379"
     },
     {
+      "instance_id": 2175804929,
+      "release_id": 30966331,
+      "master_id": 3528890,
+      "artist": "Madeleine Peyroux",
+      "title": "Let's Walk",
+      "year": 2024,
+      "labels": [
+        {
+          "name": "Just One Recording",
+          "catalog_number": "79437LP"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "date_added": "2026-08-20T09:42:56-07:00",
+      "discogs_url": "https://www.discogs.com/release/30966331"
+    },
+    {
       "instance_id": 479946843,
       "release_id": 7387632,
       "master_id": 887761,
@@ -4695,6 +4825,33 @@
       ],
       "date_added": "2023-07-08T04:14:47-07:00",
       "discogs_url": "https://www.discogs.com/release/13338290"
+    },
+    {
+      "instance_id": 2175804389,
+      "release_id": 23297621,
+      "master_id": 2645339,
+      "artist": "Melody Gardot, Philippe Baden Powell",
+      "title": "Entre Eux Deux",
+      "year": 2022,
+      "labels": [
+        {
+          "name": "Decca",
+          "catalog_number": "3892150"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2026-08-20T09:41:17-07:00",
+      "discogs_url": "https://www.discogs.com/release/23297621"
     },
     {
       "instance_id": 2057592930,
@@ -5735,6 +5892,38 @@
       ],
       "date_added": "2019-09-28T15:41:36-07:00",
       "discogs_url": "https://www.discogs.com/release/11436524"
+    },
+    {
+      "instance_id": 2175804283,
+      "release_id": 37237158,
+      "master_id": 174528,
+      "artist": "Sonny Rollins",
+      "title": "Way Out West",
+      "year": null,
+      "labels": [
+        {
+          "name": "Craft Recordings",
+          "catalog_number": "CR00599"
+        },
+        {
+          "name": "Stereo Records (4)",
+          "catalog_number": "CR00599"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2026-08-20T09:40:57-07:00",
+      "discogs_url": "https://www.discogs.com/release/37237158"
     },
     {
       "instance_id": 606763414,
