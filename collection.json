@@ -1,7 +1,7 @@
 {
   "username": "Eiliv",
-  "updated_at": "2026-08-21T21:58:45.803Z",
-  "count": 204,
+  "updated_at": "2026-08-21T23:00:01.427Z",
+  "count": 205,
   "collection": [
     {
       "instance_id": 2168848937,
@@ -3403,6 +3403,33 @@
       ],
       "date_added": "2019-12-14T15:51:13-08:00",
       "discogs_url": "https://www.discogs.com/release/6646334"
+    },
+    {
+      "instance_id": 2176236982,
+      "release_id": 5366647,
+      "master_id": 183665,
+      "artist": "Jan Johansson",
+      "title": "Jazz På Svenska",
+      "year": 2013,
+      "labels": [
+        {
+          "name": "Heptagon Records",
+          "catalog_number": "HELP-030"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "date_added": "2026-08-21T15:11:25-07:00",
+      "discogs_url": "https://www.discogs.com/release/5366647"
     },
     {
       "instance_id": 1340237570,
