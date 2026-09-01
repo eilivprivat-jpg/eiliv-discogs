@@ -1,7 +1,7 @@
 {
   "username": "Eiliv",
-  "updated_at": "2026-09-01T10:07:40.895Z",
-  "count": 205,
+  "updated_at": "2026-09-01T14:54:34.551Z",
+  "count": 210,
   "collection": [
     {
       "instance_id": 2168848937,
@@ -537,6 +537,43 @@
       "discogs_url": "https://www.discogs.com/release/21710989"
     },
     {
+      "instance_id": 2179893941,
+      "release_id": 35602837,
+      "master_id": 511511,
+      "artist": "Ben Webster",
+      "title": "King Of The Tenors",
+      "year": 2025,
+      "labels": [
+        {
+          "name": "Verve Records",
+          "catalog_number": "602478282195"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "602478282195"
+        },
+        {
+          "name": "Verve Records",
+          "catalog_number": "MGV-8020"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered",
+            "Mono"
+          ]
+        }
+      ],
+      "date_added": "2026-09-01T07:42:54-07:00",
+      "discogs_url": "https://www.discogs.com/release/35602837"
+    },
+    {
       "instance_id": 2000787039,
       "release_id": 14324329,
       "master_id": 666558,
@@ -777,6 +814,50 @@
       ],
       "date_added": "2023-09-01T08:17:02-07:00",
       "discogs_url": "https://www.discogs.com/release/27324891"
+    },
+    {
+      "instance_id": 2179894000,
+      "release_id": 37128726,
+      "master_id": 306137,
+      "artist": "Blue Mitchell",
+      "title": "The Thing To Do",
+      "year": 2026,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "7580696"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "7580696"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "84178"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "ST-84178"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BST 84178"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2026-09-01T07:43:08-07:00",
+      "discogs_url": "https://www.discogs.com/release/37128726"
     },
     {
       "instance_id": 2030028781,
@@ -1934,6 +2015,34 @@
       "discogs_url": "https://www.discogs.com/release/2989978"
     },
     {
+      "instance_id": 2179893873,
+      "release_id": 36176809,
+      "master_id": 132004,
+      "artist": "Dinah Washington",
+      "title": "What A Diff'rence A Day Makes!",
+      "year": 2026,
+      "labels": [
+        {
+          "name": "Mercury",
+          "catalog_number": "SR60158"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2026-09-01T07:42:37-07:00",
+      "discogs_url": "https://www.discogs.com/release/36176809"
+    },
+    {
       "instance_id": 2174845644,
       "release_id": 25940794,
       "master_id": 437177,
@@ -2008,6 +2117,50 @@
       ],
       "date_added": "2025-06-06T08:34:47-07:00",
       "discogs_url": "https://www.discogs.com/release/16836906"
+    },
+    {
+      "instance_id": 2179894223,
+      "release_id": 21035152,
+      "master_id": 38871,
+      "artist": "Donald Byrd",
+      "title": "Places And Spaces",
+      "year": 2021,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "3596800"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "3596800"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "00602435968001"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "00602435968001"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BN-LA549-G"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2026-09-01T07:43:59-07:00",
+      "discogs_url": "https://www.discogs.com/release/21035152"
     },
     {
       "instance_id": 2174845789,
@@ -5951,6 +6104,35 @@
       ],
       "date_added": "2026-08-20T09:40:57-07:00",
       "discogs_url": "https://www.discogs.com/release/37237158"
+    },
+    {
+      "instance_id": 2179894082,
+      "release_id": 38025642,
+      "master_id": 123547,
+      "artist": "Stan Getz",
+      "title": "Big Band Bossa Nova",
+      "year": 2026,
+      "labels": [
+        {
+          "name": "Verve Records",
+          "catalog_number": "AVER 40305"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2026-09-01T07:43:25-07:00",
+      "discogs_url": "https://www.discogs.com/release/38025642"
     },
     {
       "instance_id": 606763414,
