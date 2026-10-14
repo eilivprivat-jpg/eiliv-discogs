@@ -1,6 +1,6 @@
 {
   "username": "Eiliv",
-  "updated_at": "2026-10-13T21:15:24.990Z",
+  "updated_at": "2026-10-14T00:20:06.652Z",
   "count": 210,
   "collection": [
     {
@@ -3956,10 +3956,14 @@
         },
         {
           "name": "Atlantic",
+          "catalog_number": "081227945251"
+        },
+        {
+          "name": "Atlantic",
           "catalog_number": "SD 1311"
         },
         {
-          "name": "Rhino Vinyl",
+          "name": "Atlantic",
           "catalog_number": "RR1 555371"
         }
       ],
