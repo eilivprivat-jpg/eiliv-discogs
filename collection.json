@@ -1,7 +1,7 @@
 {
   "username": "Eiliv",
-  "updated_at": "2026-10-23T10:04:35.045Z",
-  "count": 210,
+  "updated_at": "2026-10-23T15:04:42.154Z",
+  "count": 215,
   "collection": [
     {
       "instance_id": 2168848937,
@@ -2079,6 +2079,42 @@
       "discogs_url": "https://www.discogs.com/release/25940794"
     },
     {
+      "instance_id": 2196959668,
+      "release_id": 31136018,
+      "master_id": 567443,
+      "artist": "Donald Byrd",
+      "title": "Byrd Blows On Beacon Hill",
+      "year": 2024,
+      "labels": [
+        {
+          "name": "Transition",
+          "catalog_number": "602448819468"
+        },
+        {
+          "name": "Transition",
+          "catalog_number": "TRLP 17"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "602448819468"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Mono"
+          ]
+        }
+      ],
+      "date_added": "2026-10-23T04:36:03-07:00",
+      "discogs_url": "https://www.discogs.com/release/31136018"
+    },
+    {
       "instance_id": 2030028681,
       "release_id": 16836906,
       "master_id": 38995,
@@ -3301,6 +3337,42 @@
       ],
       "date_added": "2020-05-09T19:02:06-07:00",
       "discogs_url": "https://www.discogs.com/release/2542733"
+    },
+    {
+      "instance_id": 2196959493,
+      "release_id": 15003771,
+      "master_id": 163789,
+      "artist": "Herbie Hancock",
+      "title": "The Prisoner",
+      "year": 2020,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "B0031460-01"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BST 84321"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "B0031300-01"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2026-10-23T04:35:12-07:00",
+      "discogs_url": "https://www.discogs.com/release/15003771"
     },
     {
       "instance_id": 2173767012,
@@ -6268,6 +6340,42 @@
       "discogs_url": "https://www.discogs.com/release/31268366"
     },
     {
+      "instance_id": 2196959742,
+      "release_id": 6957196,
+      "master_id": 258215,
+      "artist": "The Bill Evans Trio",
+      "title": "Explorations",
+      "year": 2015,
+      "labels": [
+        {
+          "name": "Universal Music Group International",
+          "catalog_number": "0888072361362"
+        },
+        {
+          "name": "Riverside Records",
+          "catalog_number": "OJC-037"
+        },
+        {
+          "name": "Riverside Records",
+          "catalog_number": "RLP 9351"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2026-10-23T04:36:27-07:00",
+      "discogs_url": "https://www.discogs.com/release/6957196"
+    },
+    {
       "instance_id": 468050479,
       "release_id": 3726617,
       "master_id": 104372,
@@ -6499,6 +6607,47 @@
       ],
       "date_added": "2023-04-15T07:34:10-07:00",
       "discogs_url": "https://www.discogs.com/release/16953990"
+    },
+    {
+      "instance_id": 2196959584,
+      "release_id": 16033176,
+      "master_id": 37346,
+      "artist": "The John Coltrane Quartet",
+      "title": "Ballads",
+      "year": 2020,
+      "labels": [
+        {
+          "name": "Impulse!",
+          "catalog_number": "B0032078-01"
+        },
+        {
+          "name": "Verve Records",
+          "catalog_number": "B0032078-01"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "B0032078-01"
+        },
+        {
+          "name": "Impulse!",
+          "catalog_number": "AS-32"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2026-10-23T04:35:37-07:00",
+      "discogs_url": "https://www.discogs.com/release/16033176"
     },
     {
       "instance_id": 2084073490,
@@ -6875,6 +7024,58 @@
       ],
       "date_added": "2026-07-30T04:53:38-07:00",
       "discogs_url": "https://www.discogs.com/release/16837191"
+    },
+    {
+      "instance_id": 2196959819,
+      "release_id": 28947280,
+      "master_id": 186748,
+      "artist": "Tina Brooks",
+      "title": "True Blue",
+      "year": 2023,
+      "labels": [
+        {
+          "name": "Blue Note",
+          "catalog_number": "5524255"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "5524255"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "00602455242556"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "00602455242556"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "ST-84041"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "BST 84041"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "84041"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2026-10-23T04:36:53-07:00",
+      "discogs_url": "https://www.discogs.com/release/28947280"
     },
     {
       "instance_id": 1732619950,
