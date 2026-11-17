@@ -1,7 +1,7 @@
 {
   "username": "Eiliv",
-  "updated_at": "2026-11-17T13:28:04.890Z",
-  "count": 215,
+  "updated_at": "2026-11-17T22:24:43.529Z",
+  "count": 222,
   "collection": [
     {
       "instance_id": 2168848937,
@@ -434,6 +434,38 @@
       "discogs_url": "https://www.discogs.com/release/4394875"
     },
     {
+      "instance_id": 2205570985,
+      "release_id": 26198678,
+      "master_id": 221127,
+      "artist": "Art Pepper",
+      "title": "Art Pepper Meets The Rhythm Section",
+      "year": 2023,
+      "labels": [
+        {
+          "name": "Craft Recordings",
+          "catalog_number": "CR00382"
+        },
+        {
+          "name": "Stereo Records (4)",
+          "catalog_number": "CR00382"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2026-11-17T06:31:29-08:00",
+      "discogs_url": "https://www.discogs.com/release/26198678"
+    },
+    {
       "instance_id": 2067068669,
       "release_id": 29516941,
       "master_id": 918102,
@@ -704,6 +736,42 @@
       "discogs_url": "https://www.discogs.com/release/29905828"
     },
     {
+      "instance_id": 2205571314,
+      "release_id": 5644020,
+      "master_id": 178730,
+      "artist": "Bill Evans, Jim Hall",
+      "title": "Undercurrent",
+      "year": 2014,
+      "labels": [
+        {
+          "name": "Mobile Fidelity Sound Lab",
+          "catalog_number": "MOFI 1-031"
+        },
+        {
+          "name": "Blue Note",
+          "catalog_number": "509997-04873-1-2"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Numbered",
+            "Reissue",
+            "Remastered",
+            "Special Edition",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2026-11-17T06:32:34-08:00",
+      "discogs_url": "https://www.discogs.com/release/5644020"
+    },
+    {
       "instance_id": 2046759202,
       "release_id": 5197577,
       "master_id": 190219,
@@ -734,6 +802,43 @@
       ],
       "date_added": "2025-08-01T07:56:57-07:00",
       "discogs_url": "https://www.discogs.com/release/5197577"
+    },
+    {
+      "instance_id": 2205571916,
+      "release_id": 27475044,
+      "master_id": 247672,
+      "artist": "Billie Holiday",
+      "title": "Songs For Distingué Lovers",
+      "year": 2023,
+      "labels": [
+        {
+          "name": "Verve Records",
+          "catalog_number": "B0036831-01"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "B0036831-01"
+        },
+        {
+          "name": "Verve Records",
+          "catalog_number": "MG VS-6021"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Repress",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2026-11-17T06:34:20-08:00",
+      "discogs_url": "https://www.discogs.com/release/27475044"
     },
     {
       "instance_id": 2046759123,
@@ -4601,6 +4706,38 @@
       "discogs_url": "https://www.discogs.com/release/30861855"
     },
     {
+      "instance_id": 2205571536,
+      "release_id": 2267675,
+      "master_id": 155855,
+      "artist": "Kenny Dorham",
+      "title": "Quiet Kenny",
+      "year": 1986,
+      "labels": [
+        {
+          "name": "Original Jazz Classics",
+          "catalog_number": "OJC-250"
+        },
+        {
+          "name": "New Jazz",
+          "catalog_number": "NJ-8225"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2026-11-17T06:33:20-08:00",
+      "discogs_url": "https://www.discogs.com/release/2267675"
+    },
+    {
       "instance_id": 2000795835,
       "release_id": 24982477,
       "master_id": 2285338,
@@ -6108,6 +6245,43 @@
       "discogs_url": "https://www.discogs.com/release/14039349"
     },
     {
+      "instance_id": 2205571822,
+      "release_id": 21127579,
+      "master_id": 174519,
+      "artist": "Sonny Rollins",
+      "title": "Saxophone Colossus",
+      "year": 2012,
+      "labels": [
+        {
+          "name": "Analogue Productions",
+          "catalog_number": "LP 7079"
+        },
+        {
+          "name": "Prestige",
+          "catalog_number": "LP 7079"
+        },
+        {
+          "name": "Prestige",
+          "catalog_number": "PRLP 7079"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue",
+            "Mono"
+          ]
+        }
+      ],
+      "date_added": "2026-11-17T06:34:05-08:00",
+      "discogs_url": "https://www.discogs.com/release/21127579"
+    },
+    {
       "instance_id": 404262057,
       "release_id": 11436524,
       "master_id": 170468,
@@ -6338,6 +6512,55 @@
       ],
       "date_added": "2024-11-22T06:53:20-08:00",
       "discogs_url": "https://www.discogs.com/release/31268366"
+    },
+    {
+      "instance_id": 2205571110,
+      "release_id": 29607427,
+      "master_id": 249088,
+      "artist": "The Ben Webster Quintet",
+      "title": "Soulville",
+      "year": 2024,
+      "labels": [
+        {
+          "name": "Verve Records",
+          "catalog_number": "602458538236"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "602458538236"
+        },
+        {
+          "name": "Verve Records",
+          "catalog_number": "M GV-8274"
+        },
+        {
+          "name": "UMe",
+          "catalog_number": "MG V-8274"
+        },
+        {
+          "name": "Verve Records",
+          "catalog_number": "MG V-8274"
+        },
+        {
+          "name": "Verve Records",
+          "catalog_number": "MG V8274"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered",
+            "Mono"
+          ]
+        }
+      ],
+      "date_added": "2026-11-17T06:31:56-08:00",
+      "discogs_url": "https://www.discogs.com/release/29607427"
     },
     {
       "instance_id": 2196959742,
@@ -7106,6 +7329,38 @@
       ],
       "date_added": "2024-07-12T08:00:52-07:00",
       "discogs_url": "https://www.discogs.com/release/11982762"
+    },
+    {
+      "instance_id": 2205571446,
+      "release_id": 29195572,
+      "master_id": 243664,
+      "artist": "Tony Bennett, Bill Evans",
+      "title": "The Tony Bennett/Bill Evans Album",
+      "year": 2023,
+      "labels": [
+        {
+          "name": "Craft Recordings",
+          "catalog_number": "CR00613"
+        },
+        {
+          "name": "Fantasy",
+          "catalog_number": "CR00613"
+        }
+      ],
+      "formats": [
+        {
+          "name": "Vinyl",
+          "quantity": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ],
+      "date_added": "2026-11-17T06:33:05-08:00",
+      "discogs_url": "https://www.discogs.com/release/29195572"
     },
     {
       "instance_id": 2084773944,
