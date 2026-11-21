@@ -1,6 +1,6 @@
 {
   "username": "Eiliv",
-  "updated_at": "2026-11-21T02:15:48.501Z",
+  "updated_at": "2026-11-21T09:55:31.007Z",
   "count": 222,
   "collection": [
     {
@@ -5291,7 +5291,8 @@
             "Album",
             "Compilation",
             "Reissue",
-            "Remastered"
+            "Remastered",
+            "Unofficial Release"
           ]
         }
       ],
